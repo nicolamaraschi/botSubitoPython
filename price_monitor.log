@@ -1,0 +1,1872 @@
+2025-03-01 02:13:53,618 - INFO - Avvio del monitor dei prezzi di Subito.it
+2025-03-01 02:13:53,618 - INFO - Controllo dei prezzi per 'iPhone 13' (min €300, max €500)...
+2025-03-01 02:13:53,741 - INFO - Trovati elementi con selettore: div.items__item
+2025-03-01 02:13:53,765 - INFO - Trovati 3 prodotti per 'iPhone 13'
+2025-03-01 02:13:53,767 - INFO - Trovato prodotto con prezzo desiderato: Apple iPhone 13 - €420.0
+2025-03-01 02:13:53,806 - INFO - Notifica inviata con successo per 'Apple iPhone 13'
+2025-03-01 02:13:53,807 - INFO - Pianificato controllo ogni 5 minuti per 'iPhone 13'
+2025-03-01 02:18:54,006 - INFO - Controllo dei prezzi per 'iPhone 13' (min €300, max €500)...
+2025-03-01 02:18:54,294 - INFO - Trovati elementi con selettore: div.items__item
+2025-03-01 02:18:54,319 - INFO - Trovati 3 prodotti per 'iPhone 13'
+2025-03-01 02:18:54,322 - INFO - Trovato prodotto con prezzo desiderato: Iphone 13 - €390.0
+2025-03-01 02:18:54,333 - INFO - Notifica inviata con successo per 'Iphone 13'
+2025-03-01 02:19:32,568 - INFO - Monitor dei prezzi interrotto dall'utente
+2025-03-01 02:22:54,274 - INFO - Avvio del monitor dei prezzi di Subito.it
+2025-03-01 02:22:54,275 - INFO - Controllo dei prezzi per 'iPhone 13' (min €300, max €500)...
+2025-03-01 02:22:54,409 - INFO - Trovati elementi con selettore: div.items__item
+2025-03-01 02:22:54,434 - INFO - Trovati 3 prodotti per 'iPhone 13', di cui 1 nel range di prezzo desiderato
+2025-03-01 02:22:54,435 - INFO - Controllo dei prezzi per 'microfono' (min €50.0, max €300.0)...
+2025-03-01 02:22:54,760 - INFO - Trovati elementi con selettore: div.items__item
+2025-03-01 02:22:54,784 - INFO - Trovati 1 prodotti per 'microfono', di cui 0 nel range di prezzo desiderato
+2025-03-01 02:22:54,785 - INFO - Pianificato controllo ogni 5 minuti per 'iPhone 13'
+2025-03-01 02:22:54,785 - INFO - Pianificato controllo ogni 5 minuti per 'microfono'
+2025-03-01 02:27:54,968 - INFO - Controllo dei prezzi per 'iPhone 13' (min €300, max €500)...
+2025-03-01 02:27:55,276 - INFO - Trovati elementi con selettore: div.items__item
+2025-03-01 02:27:55,302 - INFO - Trovati 3 prodotti per 'iPhone 13', di cui 1 nel range di prezzo desiderato
+2025-03-01 02:27:55,304 - INFO - Controllo dei prezzi per 'microfono' (min €50.0, max €300.0)...
+2025-03-01 02:27:55,572 - INFO - Trovati elementi con selettore: div.items__item
+2025-03-01 02:27:55,598 - INFO - Trovati 3 prodotti per 'microfono', di cui 2 nel range di prezzo desiderato
+2025-03-01 02:32:55,817 - INFO - Controllo dei prezzi per 'iPhone 13' (min €300, max €500)...
+2025-03-01 02:32:56,289 - INFO - Trovati elementi con selettore: div.items__item
+2025-03-01 02:32:56,314 - INFO - Trovati 3 prodotti per 'iPhone 13', di cui 2 nel range di prezzo desiderato
+2025-03-01 02:32:56,316 - INFO - Controllo dei prezzi per 'microfono' (min €50.0, max €300.0)...
+2025-03-01 02:32:56,745 - INFO - Trovati elementi con selettore: div.items__item
+2025-03-01 02:32:56,771 - INFO - Trovati 3 prodotti per 'microfono', di cui 3 nel range di prezzo desiderato
+2025-03-01 02:32:56,772 - INFO - Trovato nuovo prodotto con prezzo desiderato: Notebook Lenovo V15 15.6" 8GB 256GB SSD Win11P - €199.0
+2025-03-01 02:32:56,821 - INFO - Notifica inviata con successo per 'Notebook Lenovo V15 15.6" 8GB 256GB SSD Win11P'
+2025-03-01 02:37:52,700 - INFO - Monitor dei prezzi interrotto dall'utente
+2025-03-01 02:45:45,126 - INFO - Avvio del monitor dei prezzi di Subito.it
+2025-03-01 02:45:45,126 - INFO - Controllo dei prezzi per 'iPhone 13' (min €300, max €500)...
+2025-03-01 02:45:45,602 - INFO - Trovati elementi con selettore: div.items__item
+2025-03-01 02:45:45,628 - INFO - Trovati 3 prodotti per 'iPhone 13', di cui 1 nel range di prezzo desiderato
+2025-03-01 02:45:45,628 - INFO - Prodotto trovato: Iphone 13promax 256 - €420.0 - https://www.subito.it/telefonia/iphone-13promax-256-lecce-591338497.htm
+2025-03-01 02:45:45,628 - INFO - Controllo dei prezzi per 'microfono' (min €50.0, max €300.0)...
+2025-03-01 02:45:46,324 - INFO - Trovati elementi con selettore: div.items__item
+2025-03-01 02:45:46,350 - INFO - Trovati 3 prodotti per 'microfono', di cui 2 nel range di prezzo desiderato
+2025-03-01 02:45:46,350 - INFO - Prodotto trovato: Notebook 15.4" Toshiba Satellite A200 - €75.0 - https://www.subito.it/informatica/notebook-15-4-toshiba-satellite-a200-livorno-590227299.htm
+2025-03-01 02:45:46,350 - INFO - Prodotto trovato: Bose Noise Cancelling Headphones 700 - €180.0 - https://www.subito.it/audio-video/bose-noise-cancelling-headphones-700-pordenone-585482369.htm
+2025-03-01 02:45:46,350 - INFO - Pianificato controllo ogni 5 minuti per 'iPhone 13'
+2025-03-01 02:45:46,350 - INFO - Pianificato controllo ogni 5 minuti per 'microfono'
+2025-03-01 02:50:46,590 - INFO - Controllo dei prezzi per 'iPhone 13' (min €300, max €500)...
+2025-03-01 02:50:46,938 - INFO - Trovati elementi con selettore: div.items__item
+2025-03-01 02:50:46,966 - INFO - Trovati 3 prodotti per 'iPhone 13', di cui 3 nel range di prezzo desiderato
+2025-03-01 02:50:46,967 - INFO - Prodotto trovato: Apple iPhone 13 - €420.0 - https://www.subito.it/telefonia/apple-iphone-13-palermo-591809551.htm
+2025-03-01 02:50:46,967 - INFO - Prodotto trovato: Apple iPhone 14 128gb - €430.0 - https://www.subito.it/telefonia/apple-iphone-14-128gb-bologna-591221589.htm
+2025-03-01 02:50:46,967 - INFO - Prodotto trovato: iPhone 13 mini 128 GB APPLE USATO o RICONDIZIONATO - €329.0 - https://www.subito.it/telefonia/iphone-13-mini-128-gb-apple-usato-o-ricondizionato-palermo-547625833.htm
+2025-03-01 02:50:46,967 - INFO - Controllo dei prezzi per 'microfono' (min €50.0, max €300.0)...
+2025-03-01 02:50:47,233 - INFO - Trovati elementi con selettore: div.items__item
+2025-03-01 02:50:47,260 - INFO - Trovati 3 prodotti per 'microfono', di cui 2 nel range di prezzo desiderato
+2025-03-01 02:50:47,260 - INFO - Prodotto trovato: STANTON DJC.4 + IMBALLO - €129.0 - https://www.subito.it/strumenti-musicali/stanton-djc-4-imballo-padova-590535562.htm
+2025-03-01 02:50:47,260 - INFO - Prodotto trovato: Audiodesign Pro PMU 32 - €258.0 - https://www.subito.it/audio-video/audiodesign-pro-pmu-32-ferrara-587693447.htm
+2025-03-01 02:55:47,325 - INFO - Controllo dei prezzi per 'iPhone 13' (min €300, max €500)...
+2025-03-01 02:55:47,665 - INFO - Trovati elementi con selettore: div.items__item
+2025-03-01 02:55:47,690 - INFO - Trovati 3 prodotti per 'iPhone 13', di cui 1 nel range di prezzo desiderato
+2025-03-01 02:55:47,690 - INFO - Prodotto trovato: iPhone 13 128GB blu pari al nuovo promo - €380.0 - https://www.subito.it/telefonia/iphone-13-128gb-blu-pari-al-nuovo-promo-torino-588994575.htm
+2025-03-01 02:55:47,690 - INFO - Controllo dei prezzi per 'microfono' (min €50.0, max €300.0)...
+2025-03-01 02:55:47,955 - INFO - Trovati elementi con selettore: div.items__item
+2025-03-01 02:55:47,981 - INFO - Trovati 3 prodotti per 'microfono', di cui 2 nel range di prezzo desiderato
+2025-03-01 02:55:47,981 - INFO - Prodotto trovato: Netbook Acer Aspire One Happy ricondizionato - €60.0 - https://www.subito.it/informatica/netbook-acer-aspire-one-happy-ricondizionato-livorno-577412824.htm
+2025-03-01 02:55:47,981 - INFO - Prodotto trovato: Cb Midland Alan 48 con modifica canali - €120.0 - https://www.subito.it/audio-video/cb-midland-alan-48-con-modifica-canali-rimini-582479957.htm
+2025-03-01 03:00:48,288 - INFO - Controllo dei prezzi per 'iPhone 13' (min €300, max €500)...
+2025-03-01 03:00:48,685 - INFO - Trovati elementi con selettore: div.items__item
+2025-03-01 03:00:48,710 - INFO - Trovati 3 prodotti per 'iPhone 13', di cui 2 nel range di prezzo desiderato
+2025-03-01 03:00:48,710 - INFO - Prodotto trovato: iPhone 13 128GB - 2 anni Garanzia - €450.0 - https://www.subito.it/telefonia/iphone-13-128gb-2-anni-garanzia-salerno-563141115.htm
+2025-03-01 03:00:48,710 - INFO - Prodotto trovato: iphone 13 128gb nuovi - €499.0 - https://www.subito.it/telefonia/iphone-13-128gb-nuovi-catania-573279234.htm
+2025-03-01 03:00:48,710 - INFO - Controllo dei prezzi per 'microfono' (min €50.0, max €300.0)...
+2025-03-01 03:00:49,059 - INFO - Trovati elementi con selettore: div.items__item
+2025-03-01 03:00:49,084 - INFO - Trovati 3 prodotti per 'microfono', di cui 1 nel range di prezzo desiderato
+2025-03-01 03:00:49,084 - INFO - Prodotto trovato: Steinberg kit registrazione - €220.0 - https://www.subito.it/audio-video/steinberg-kit-registrazione-palermo-497753313.htm
+2025-03-01 03:05:49,114 - INFO - Controllo dei prezzi per 'iPhone 13' (min €300, max €500)...
+2025-03-01 03:05:49,546 - INFO - Trovati elementi con selettore: div.items__item
+2025-03-01 03:05:49,571 - INFO - Trovati 2 prodotti per 'iPhone 13', di cui 0 nel range di prezzo desiderato
+2025-03-01 03:05:49,572 - INFO - Controllo dei prezzi per 'microfono' (min €50.0, max €300.0)...
+2025-03-01 03:05:49,865 - INFO - Trovati elementi con selettore: div.items__item
+2025-03-01 03:05:49,890 - INFO - Trovati 3 prodotti per 'microfono', di cui 1 nel range di prezzo desiderato
+2025-03-01 03:05:49,890 - INFO - Prodotto trovato: Notebook 15.4" Toshiba Satellite A200 - €75.0 - https://www.subito.it/informatica/notebook-15-4-toshiba-satellite-a200-livorno-590227299.htm
+2025-03-01 03:06:46,761 - INFO - Monitor dei prezzi interrotto dall'utente
+2025-03-01 03:09:12,671 - INFO - Avvio del monitor dei prezzi di Subito.it
+2025-03-01 03:09:12,672 - INFO - Controllo dei prezzi per 'iPhone 13' (min €300, max €500)...
+2025-03-01 03:09:12,814 - INFO - Trovati elementi con selettore: div.items__item
+2025-03-01 03:09:12,838 - INFO - Trovati 2 prodotti per 'iPhone 13', di cui 0 nel range di prezzo desiderato
+2025-03-01 03:09:12,838 - INFO - Controllo dei prezzi per 'microfono' (min €300.0, max €600.0)...
+2025-03-01 03:09:12,941 - INFO - Trovati elementi con selettore: div.items__item
+2025-03-01 03:09:12,964 - INFO - Trovati 3 prodotti per 'microfono', di cui 1 nel range di prezzo desiderato
+2025-03-01 03:09:12,964 - INFO - Prodotto trovato: Sintoamplificatore Denon AVR-X3400H - €450.0 - https://www.subito.it/audio-video/sintoamplificatore-denon-avr-x3400h-napoli-588245357.htm
+2025-03-01 03:09:12,964 - INFO - Pianificato controllo ogni 5 minuti per 'iPhone 13'
+2025-03-01 03:09:12,964 - INFO - Pianificato controllo ogni 5 minuti per 'microfono'
+2025-03-01 03:14:13,045 - INFO - Controllo dei prezzi per 'iPhone 13' (min €300, max €500)...
+2025-03-01 03:14:13,329 - INFO - Trovati elementi con selettore: div.items__item
+2025-03-01 03:14:13,353 - INFO - Trovati 2 prodotti per 'iPhone 13', di cui 2 nel range di prezzo desiderato
+2025-03-01 03:14:13,353 - INFO - Prodotto trovato: iPhone 13 256GB nero promo - €400.0 - https://www.subito.it/telefonia/iphone-13-256gb-nero-promo-torino-584927991.htm
+2025-03-01 03:14:13,353 - INFO - Prodotto trovato: Iphone 13 128gb - €390.0 - https://www.subito.it/telefonia/iphone-13-128gb-cremona-587174658.htm
+2025-03-01 03:14:13,353 - INFO - Controllo dei prezzi per 'microfono' (min €300.0, max €600.0)...
+2025-03-01 03:14:13,586 - INFO - Trovati elementi con selettore: div.items__item
+2025-03-01 03:14:13,610 - INFO - Trovati 3 prodotti per 'microfono', di cui 1 nel range di prezzo desiderato
+2025-03-01 03:14:13,610 - INFO - Prodotto trovato: EKO EVO A350E BARITONE - €369.0 - https://www.subito.it/strumenti-musicali/eko-evo-a350e-baritone-padova-589896263.htm
+2025-03-01 03:15:59,682 - INFO - Monitor dei prezzi interrotto dall'utente
+2025-03-01 03:16:09,501 - INFO - Avvio del monitor dei prezzi di Subito.it
+2025-03-01 03:16:09,501 - INFO - Controllo dei prezzi per 'microfono' (min €300.0, max €400.0)...
+2025-03-01 03:16:09,925 - INFO - Trovati elementi con selettore: div.items__item
+2025-03-01 03:16:09,951 - INFO - Trovati 3 prodotti per 'microfono', di cui 1 nel range di prezzo desiderato
+2025-03-01 03:16:09,951 - INFO - Prodotto trovato: EKO EVO A350E BARITONE - €369.0 - https://www.subito.it/strumenti-musicali/eko-evo-a350e-baritone-padova-589896263.htm
+2025-03-01 03:16:09,951 - INFO - Pianificato controllo ogni 30 minuti per 'microfono'
+2025-03-01 03:27:34,159 - INFO - Monitor dei prezzi interrotto dall'utente
+2025-03-01 03:27:36,150 - INFO - Avvio del monitor dei prezzi di Subito.it
+2025-03-01 03:27:36,151 - INFO - Controllo dei prezzi per 'microfono' (min €300.0, max €400.0)...
+2025-03-01 03:27:36,460 - INFO - Trovati elementi con selettore: div.items__item
+2025-03-01 03:27:36,485 - INFO - Trovati 3 prodotti per 'microfono', di cui 0 nel range di prezzo desiderato
+2025-03-01 03:27:36,485 - INFO - Pianificato controllo ogni 30 minuti per 'microfono'
+2025-03-01 03:30:20,598 - INFO - Monitor dei prezzi interrotto dall'utente
+2025-03-01 03:30:30,966 - INFO - Avvio del monitor dei prezzi di Subito.it
+2025-03-01 03:30:30,966 - INFO - Controllo dei prezzi per 'pc' (min €100.0, max €200.0)...
+2025-03-01 03:30:31,366 - INFO - Trovati elementi con selettore: div.items__item
+2025-03-01 03:30:31,395 - INFO - Trovati 2 prodotti per 'pc', di cui 0 nel range di prezzo desiderato
+2025-03-01 03:30:31,395 - INFO - Pianificato controllo ogni 30 minuti per 'pc'
+2025-03-01 03:30:52,528 - INFO - Monitor dei prezzi interrotto dall'utente
+2025-03-01 03:31:06,203 - INFO - Avvio del monitor dei prezzi di Subito.it
+2025-03-01 03:31:06,204 - INFO - Controllo dei prezzi per 'computer' (min €300.0, max €500.0)...
+2025-03-01 03:31:06,560 - INFO - Trovati elementi con selettore: div.items__item
+2025-03-01 03:31:06,592 - INFO - Trovati 3 prodotti per 'computer', di cui 0 nel range di prezzo desiderato
+2025-03-01 03:31:06,592 - INFO - Pianificato controllo ogni 30 minuti per 'computer'
+2025-03-01 03:31:25,574 - INFO - Monitor dei prezzi interrotto dall'utente
+2025-03-01 03:31:41,091 - INFO - Avvio del monitor dei prezzi di Subito.it
+2025-03-01 03:31:41,092 - INFO - Controllo dei prezzi per 'processore' (min €100.0, max €700.0)...
+2025-03-01 03:31:41,401 - INFO - Trovati elementi con selettore: div.items__item
+2025-03-01 03:31:41,429 - INFO - Trovati 3 prodotti per 'processore', di cui 1 nel range di prezzo desiderato
+2025-03-01 03:31:41,429 - INFO - Prodotto trovato: LENOVO THINKPAD E15-15,6”FHD IPS-CORE I5-10210U - €275.0 - https://www.subito.it/informatica/lenovo-thinkpad-e15-15-6-fhd-ips-core-i5-10210u-roma-588073958.htm
+2025-03-01 03:31:41,429 - INFO - Pianificato controllo ogni 30 minuti per 'processore'
+2025-03-01 03:32:56,811 - INFO - Monitor dei prezzi interrotto dall'utente
+2025-03-01 03:33:12,732 - INFO - Avvio del monitor dei prezzi di Subito.it
+2025-03-01 03:33:12,732 - INFO - Controllo dei prezzi per 'televisione' (min €100.0, max €700.0)...
+2025-03-01 03:33:13,146 - INFO - Trovati elementi con selettore: div.items__item
+2025-03-01 03:33:13,182 - INFO - Trovati 3 prodotti per 'televisione', di cui 1 nel range di prezzo desiderato
+2025-03-01 03:33:13,182 - INFO - Prodotto trovato: mobili soggiorno - €190.0 - https://www.subito.it/arredamento-casalinghi/mobili-soggiorno-padova-590001675.htm
+2025-03-01 03:33:13,182 - INFO - Pianificato controllo ogni 30 minuti per 'televisione'
+2025-03-01 03:44:53,937 - INFO - Monitor dei prezzi interrotto dall'utente
+2025-03-01 03:45:17,921 - INFO - Avvio del monitor dei prezzi di Subito.it
+2025-03-01 03:45:17,921 - INFO - Controllo dei prezzi per 'televisione' (min €100.0, max €500.0)...
+2025-03-01 03:45:17,921 - INFO - Controllando pagina 1/5: https://www.subito.it/annunci-italia/vendita/usato/?q=televisione
+2025-03-01 03:45:18,456 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 03:45:18,461 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 03:45:18,467 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 03:45:18,472 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 03:45:18,484 - INFO - Trovati 200 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 03:45:18,535 - INFO - Trovati 233 elementi unici per analisi
+2025-03-01 03:45:20,557 - INFO - Controllando pagina 2/5: https://www.subito.it/annunci-italia/vendita/usato/?q=televisione&o=2
+2025-03-01 03:45:20,946 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 03:45:20,952 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 03:45:20,958 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 03:45:20,963 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 03:45:20,972 - INFO - Trovati 205 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 03:45:21,024 - INFO - Trovati 238 elementi unici per analisi
+2025-03-01 03:45:23,042 - INFO - Controllando pagina 3/5: https://www.subito.it/annunci-italia/vendita/usato/?q=televisione&o=3
+2025-03-01 03:45:23,385 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 03:45:23,390 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 03:45:23,398 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 03:45:23,402 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 03:45:23,412 - INFO - Trovati 202 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 03:45:23,472 - INFO - Trovati 235 elementi unici per analisi
+2025-03-01 03:45:25,495 - INFO - Controllando pagina 4/5: https://www.subito.it/annunci-italia/vendita/usato/?q=televisione&o=4
+2025-03-01 03:45:25,865 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 03:45:25,871 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 03:45:25,877 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 03:45:25,882 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 03:45:25,892 - INFO - Trovati 200 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 03:45:25,954 - INFO - Trovati 233 elementi unici per analisi
+2025-03-01 03:45:27,976 - INFO - Controllando pagina 5/5: https://www.subito.it/annunci-italia/vendita/usato/?q=televisione&o=5
+2025-03-01 03:45:28,477 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 03:45:28,483 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 03:45:28,489 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 03:45:28,493 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 03:45:28,503 - INFO - Trovati 204 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 03:45:28,552 - INFO - Trovati 236 elementi unici per analisi
+2025-03-01 03:45:28,569 - INFO - Trovati 399 prodotti totali su 5 pagine
+2025-03-01 03:45:28,569 - INFO - Filtrati a 57 prodotti unici
+2025-03-01 03:45:28,569 - INFO - Trovati 57 prodotti per 'televisione', di cui 24 nel range di prezzo €100.0-€500.0
+2025-03-01 03:45:28,570 - INFO - Pianificato controllo ogni 30 minuti per 'televisione'
+2025-03-01 03:46:46,418 - INFO - Monitor dei prezzi interrotto dall'utente
+2025-03-01 03:47:12,463 - INFO - Avvio del monitor dei prezzi di Subito.it
+2025-03-01 03:47:12,463 - INFO - Controllo dei prezzi per 'televisione' (min €550.0, max €600.0)...
+2025-03-01 03:47:12,464 - INFO - Controllando pagina 1/5: https://www.subito.it/annunci-italia/vendita/usato/?q=televisione
+2025-03-01 03:47:12,573 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 03:47:12,578 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 03:47:12,584 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 03:47:12,588 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 03:47:12,597 - INFO - Trovati 200 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 03:47:12,642 - INFO - Trovati 233 elementi unici per analisi
+2025-03-01 03:47:14,662 - INFO - Controllando pagina 2/5: https://www.subito.it/annunci-italia/vendita/usato/?q=televisione&o=2
+2025-03-01 03:47:14,812 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 03:47:14,820 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 03:47:14,826 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 03:47:14,832 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 03:47:14,842 - INFO - Trovati 205 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 03:47:14,913 - INFO - Trovati 238 elementi unici per analisi
+2025-03-01 03:47:16,930 - INFO - Controllando pagina 3/5: https://www.subito.it/annunci-italia/vendita/usato/?q=televisione&o=3
+2025-03-01 03:47:17,097 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 03:47:17,103 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 03:47:17,108 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 03:47:17,113 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 03:47:17,122 - INFO - Trovati 202 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 03:47:17,171 - INFO - Trovati 235 elementi unici per analisi
+2025-03-01 03:47:19,190 - INFO - Controllando pagina 4/5: https://www.subito.it/annunci-italia/vendita/usato/?q=televisione&o=4
+2025-03-01 03:47:19,322 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 03:47:19,328 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 03:47:19,334 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 03:47:19,339 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 03:47:19,349 - INFO - Trovati 200 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 03:47:19,395 - INFO - Trovati 233 elementi unici per analisi
+2025-03-01 03:47:21,416 - INFO - Controllando pagina 5/5: https://www.subito.it/annunci-italia/vendita/usato/?q=televisione&o=5
+2025-03-01 03:47:21,544 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 03:47:21,554 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 03:47:21,561 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 03:47:21,568 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 03:47:21,578 - INFO - Trovati 204 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 03:47:21,627 - INFO - Trovati 236 elementi unici per analisi
+2025-03-01 03:47:21,643 - INFO - Trovati 399 prodotti totali su 5 pagine
+2025-03-01 03:47:21,643 - INFO - Filtrati a 57 prodotti unici
+2025-03-01 03:47:21,644 - INFO - Trovati 57 prodotti per 'televisione', di cui 0 nel range di prezzo €550.0-€600.0
+2025-03-01 03:47:21,644 - INFO - Pianificato controllo ogni 30 minuti per 'televisione'
+2025-03-01 03:48:18,530 - INFO - Monitor dei prezzi interrotto dall'utente
+2025-03-01 03:48:47,195 - INFO - Avvio del monitor dei prezzi di Subito.it
+2025-03-01 03:48:47,195 - INFO - Controllo dei prezzi per 'televisione' (min €1.0, max €100.0)...
+2025-03-01 03:48:47,195 - INFO - Controllando pagina 1/5: https://www.subito.it/annunci-italia/vendita/usato/?q=televisione
+2025-03-01 03:48:47,468 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 03:48:47,475 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 03:48:47,481 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 03:48:47,486 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 03:48:47,496 - INFO - Trovati 200 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 03:48:47,544 - INFO - Trovati 233 elementi unici per analisi
+2025-03-01 03:48:49,565 - INFO - Controllando pagina 2/5: https://www.subito.it/annunci-italia/vendita/usato/?q=televisione&o=2
+2025-03-01 03:48:49,684 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 03:48:49,692 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 03:48:49,701 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 03:48:49,707 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 03:48:49,719 - INFO - Trovati 205 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 03:48:49,774 - INFO - Trovati 238 elementi unici per analisi
+2025-03-01 03:48:51,791 - INFO - Controllando pagina 3/5: https://www.subito.it/annunci-italia/vendita/usato/?q=televisione&o=3
+2025-03-01 03:48:52,021 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 03:48:52,027 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 03:48:52,034 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 03:48:52,038 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 03:48:52,049 - INFO - Trovati 202 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 03:48:52,097 - INFO - Trovati 235 elementi unici per analisi
+2025-03-01 03:48:54,116 - INFO - Controllando pagina 4/5: https://www.subito.it/annunci-italia/vendita/usato/?q=televisione&o=4
+2025-03-01 03:48:54,360 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 03:48:54,366 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 03:48:54,373 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 03:48:54,377 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 03:48:54,387 - INFO - Trovati 200 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 03:48:54,433 - INFO - Trovati 233 elementi unici per analisi
+2025-03-01 03:48:56,454 - INFO - Controllando pagina 5/5: https://www.subito.it/annunci-italia/vendita/usato/?q=televisione&o=5
+2025-03-01 03:48:56,733 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 03:48:56,738 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 03:48:56,743 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 03:48:56,747 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 03:48:56,757 - INFO - Trovati 204 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 03:48:56,805 - INFO - Trovati 236 elementi unici per analisi
+2025-03-01 03:48:56,821 - INFO - Trovati 399 prodotti totali su 5 pagine
+2025-03-01 03:48:56,821 - INFO - Filtrati a 57 prodotti unici
+2025-03-01 03:48:56,821 - INFO - Trovati 57 prodotti per 'televisione', di cui 41 nel range di prezzo €1.0-€100.0
+2025-03-01 03:48:56,821 - INFO - Pianificato controllo ogni 30 minuti per 'televisione'
+2025-03-01 03:50:07,126 - INFO - Monitor dei prezzi interrotto dall'utente
+2025-03-01 04:25:39,077 - INFO - Avvio del monitor dei prezzi di Subito.it
+2025-03-01 04:25:39,078 - INFO - Controllo dei prezzi per 'volante logitech' (min €1.0, max €100.0)...
+2025-03-01 04:25:39,078 - INFO - Controllando pagina 1/5: https://www.subito.it/annunci-italia/vendita/usato/?q=volante+logitech
+2025-03-01 04:25:39,528 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 04:25:39,536 - INFO - Trovati 32 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 04:25:39,542 - INFO - Trovati 32 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 04:25:39,547 - INFO - Trovati 32 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 04:25:39,557 - INFO - Trovati 193 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 04:25:39,604 - INFO - Trovati 224 elementi unici per analisi
+2025-03-01 04:25:41,634 - INFO - Controllando pagina 2/5: https://www.subito.it/annunci-italia/vendita/usato/?q=volante+logitech&o=2
+2025-03-01 04:25:42,138 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 04:25:42,145 - INFO - Trovati 32 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 04:25:42,151 - INFO - Trovati 32 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 04:25:42,156 - INFO - Trovati 32 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 04:25:42,193 - INFO - Trovati 193 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 04:25:42,242 - INFO - Trovati 224 elementi unici per analisi
+2025-03-01 04:25:44,272 - INFO - Controllando pagina 3/5: https://www.subito.it/annunci-italia/vendita/usato/?q=volante+logitech&o=3
+2025-03-01 04:25:44,677 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 04:25:44,683 - INFO - Trovati 32 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 04:25:44,689 - INFO - Trovati 32 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 04:25:44,694 - INFO - Trovati 32 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 04:25:44,703 - INFO - Trovati 194 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 04:25:44,748 - INFO - Trovati 226 elementi unici per analisi
+2025-03-01 04:25:46,775 - INFO - Controllando pagina 4/5: https://www.subito.it/annunci-italia/vendita/usato/?q=volante+logitech&o=4
+2025-03-01 04:25:47,090 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 04:25:47,097 - INFO - Trovati 32 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 04:25:47,103 - INFO - Trovati 32 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 04:25:47,108 - INFO - Trovati 32 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 04:25:47,118 - INFO - Trovati 196 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 04:25:47,163 - INFO - Trovati 228 elementi unici per analisi
+2025-03-01 04:25:49,217 - INFO - Controllando pagina 5/5: https://www.subito.it/annunci-italia/vendita/usato/?q=volante+logitech&o=5
+2025-03-01 04:25:50,014 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 04:25:50,021 - INFO - Trovati 32 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 04:25:50,027 - INFO - Trovati 32 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 04:25:50,033 - INFO - Trovati 32 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 04:25:50,043 - INFO - Trovati 197 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 04:25:50,089 - INFO - Trovati 229 elementi unici per analisi
+2025-03-01 04:25:50,114 - INFO - Trovati 881 prodotti totali su 5 pagine
+2025-03-01 04:25:50,114 - INFO - Filtrati a 124 prodotti unici
+2025-03-01 04:25:50,115 - INFO - Trovati 124 prodotti per 'volante logitech', di cui 33 nel range di prezzo €1.0-€100.0
+2025-03-01 04:25:50,115 - INFO - Pianificato controllo ogni 30 minuti per 'volante logitech'
+2025-03-01 04:26:58,044 - INFO - Monitor dei prezzi interrotto dall'utente
+2025-03-01 04:28:02,959 - INFO - Avvio del monitor dei prezzi di Subito.it
+2025-03-01 04:28:02,959 - INFO - Controllo dei prezzi per 'xbox series x' (min €200.0, max €300.0)...
+2025-03-01 04:28:02,959 - INFO - Controllando pagina 1/5: https://www.subito.it/annunci-italia/vendita/usato/?q=xbox+series+x
+2025-03-01 04:28:03,290 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 04:28:03,299 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 04:28:03,309 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 04:28:03,315 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 04:28:03,326 - INFO - Trovati 200 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 04:28:03,397 - INFO - Trovati 232 elementi unici per analisi
+2025-03-01 04:28:05,430 - INFO - Controllando pagina 2/5: https://www.subito.it/annunci-italia/vendita/usato/?q=xbox+series+x&o=2
+2025-03-01 04:28:05,750 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 04:28:05,756 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 04:28:05,763 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 04:28:05,768 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 04:28:05,778 - INFO - Trovati 198 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 04:28:05,824 - INFO - Trovati 231 elementi unici per analisi
+2025-03-01 04:28:07,855 - INFO - Controllando pagina 3/5: https://www.subito.it/annunci-italia/vendita/usato/?q=xbox+series+x&o=3
+2025-03-01 04:28:08,140 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 04:28:08,146 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 04:28:08,152 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 04:28:08,156 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 04:28:08,180 - INFO - Trovati 201 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 04:28:08,225 - INFO - Trovati 234 elementi unici per analisi
+2025-03-01 04:28:10,251 - INFO - Controllando pagina 4/5: https://www.subito.it/annunci-italia/vendita/usato/?q=xbox+series+x&o=4
+2025-03-01 04:28:10,532 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 04:28:10,539 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 04:28:10,545 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 04:28:10,550 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 04:28:10,560 - INFO - Trovati 204 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 04:28:10,605 - INFO - Trovati 237 elementi unici per analisi
+2025-03-01 04:28:12,634 - INFO - Controllando pagina 5/5: https://www.subito.it/annunci-italia/vendita/usato/?q=xbox+series+x&o=5
+2025-03-01 04:28:12,947 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 04:28:12,954 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 04:28:12,960 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 04:28:12,965 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 04:28:12,975 - INFO - Trovati 198 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 04:28:13,023 - INFO - Trovati 230 elementi unici per analisi
+2025-03-01 04:28:13,047 - INFO - Trovati 833 prodotti totali su 5 pagine
+2025-03-01 04:28:13,047 - INFO - Filtrati a 113 prodotti unici
+2025-03-01 04:28:13,048 - INFO - Trovati 113 prodotti per 'xbox series x', di cui 12 nel range di prezzo €200.0-€300.0
+2025-03-01 04:28:13,048 - INFO - Pianificato controllo ogni 30 minuti per 'xbox series x'
+2025-03-01 04:58:13,595 - INFO - Controllo dei prezzi per 'xbox series x' (min €200.0, max €300.0)...
+2025-03-01 04:58:13,601 - INFO - Controllando pagina 1/5: https://www.subito.it/annunci-italia/vendita/usato/?q=xbox+series+x
+2025-03-01 04:58:13,885 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 04:58:13,892 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 04:58:13,897 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 04:58:13,902 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 04:58:13,911 - INFO - Trovati 200 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 04:58:13,957 - INFO - Trovati 232 elementi unici per analisi
+2025-03-01 04:58:15,983 - INFO - Controllando pagina 2/5: https://www.subito.it/annunci-italia/vendita/usato/?q=xbox+series+x&o=2
+2025-03-01 04:58:16,269 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 04:58:16,276 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 04:58:16,281 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 04:58:16,286 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 04:58:16,296 - INFO - Trovati 198 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 04:58:16,342 - INFO - Trovati 231 elementi unici per analisi
+2025-03-01 04:58:18,371 - INFO - Controllando pagina 3/5: https://www.subito.it/annunci-italia/vendita/usato/?q=xbox+series+x&o=3
+2025-03-01 04:58:18,732 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 04:58:18,740 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 04:58:18,747 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 04:58:18,752 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 04:58:18,763 - INFO - Trovati 201 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 04:58:18,810 - INFO - Trovati 234 elementi unici per analisi
+2025-03-01 04:58:20,832 - INFO - Controllando pagina 4/5: https://www.subito.it/annunci-italia/vendita/usato/?q=xbox+series+x&o=4
+2025-03-01 04:58:21,227 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 04:58:21,233 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 04:58:21,239 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 04:58:21,243 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 04:58:21,253 - INFO - Trovati 204 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 04:58:21,297 - INFO - Trovati 237 elementi unici per analisi
+2025-03-01 04:58:23,326 - INFO - Controllando pagina 5/5: https://www.subito.it/annunci-italia/vendita/usato/?q=xbox+series+x&o=5
+2025-03-01 04:58:23,734 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 04:58:23,740 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 04:58:23,746 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 04:58:23,751 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 04:58:23,760 - INFO - Trovati 198 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 04:58:23,807 - INFO - Trovati 230 elementi unici per analisi
+2025-03-01 04:58:23,830 - INFO - Trovati 833 prodotti totali su 5 pagine
+2025-03-01 04:58:23,831 - INFO - Filtrati a 113 prodotti unici
+2025-03-01 04:58:23,831 - INFO - Trovati 113 prodotti per 'xbox series x', di cui 12 nel range di prezzo €200.0-€300.0
+2025-03-01 05:18:23,033 - INFO - Monitor dei prezzi interrotto dall'utente
+2025-03-01 05:19:23,655 - INFO - Avvio del monitor dei prezzi di Subito.it
+2025-03-01 05:19:23,655 - INFO - Controllo dei prezzi per 'bicicletta' (min €140.0, max €200.0)...
+2025-03-01 05:19:23,655 - INFO - Controllando pagina 1/10: https://www.subito.it/annunci-italia/vendita/usato/?q=bicicletta
+2025-03-01 05:19:24,003 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:19:24,010 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:19:24,017 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:19:24,022 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:19:24,033 - INFO - Trovati 211 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:19:24,097 - INFO - Trovati 244 elementi unici per analisi
+2025-03-01 05:19:26,118 - INFO - Controllando pagina 2/10: https://www.subito.it/annunci-italia/vendita/usato/?q=bicicletta&o=2
+2025-03-01 05:19:26,587 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:19:26,594 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:19:26,600 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:19:26,605 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:19:26,616 - INFO - Trovati 200 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:19:26,666 - INFO - Trovati 233 elementi unici per analisi
+2025-03-01 05:19:28,693 - INFO - Controllando pagina 3/10: https://www.subito.it/annunci-italia/vendita/usato/?q=bicicletta&o=3
+2025-03-01 05:19:29,180 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:19:29,187 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:19:29,193 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:19:29,198 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:19:29,208 - INFO - Trovati 199 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:19:29,257 - INFO - Trovati 232 elementi unici per analisi
+2025-03-01 05:19:31,282 - INFO - Controllando pagina 4/10: https://www.subito.it/annunci-italia/vendita/usato/?q=bicicletta&o=4
+2025-03-01 05:19:31,700 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:19:31,707 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:19:31,713 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:19:31,718 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:19:31,729 - INFO - Trovati 203 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:19:31,782 - INFO - Trovati 236 elementi unici per analisi
+2025-03-01 05:19:33,807 - INFO - Controllando pagina 5/10: https://www.subito.it/annunci-italia/vendita/usato/?q=bicicletta&o=5
+2025-03-01 05:19:34,134 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:19:34,141 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:19:34,148 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:19:34,153 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:19:34,163 - INFO - Trovati 201 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:19:34,216 - INFO - Trovati 234 elementi unici per analisi
+2025-03-01 05:19:36,242 - INFO - Controllando pagina 6/10: https://www.subito.it/annunci-italia/vendita/usato/?q=bicicletta&o=6
+2025-03-01 05:19:36,595 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:19:36,602 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:19:36,608 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:19:36,613 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:19:36,625 - INFO - Trovati 202 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:19:36,676 - INFO - Trovati 232 elementi unici per analisi
+2025-03-01 05:19:38,701 - INFO - Controllando pagina 7/10: https://www.subito.it/annunci-italia/vendita/usato/?q=bicicletta&o=7
+2025-03-01 05:19:39,023 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:19:39,030 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:19:39,037 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:19:39,042 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:19:39,073 - INFO - Trovati 204 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:19:39,130 - INFO - Trovati 234 elementi unici per analisi
+2025-03-01 05:19:41,155 - INFO - Controllando pagina 8/10: https://www.subito.it/annunci-italia/vendita/usato/?q=bicicletta&o=8
+2025-03-01 05:19:41,591 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:19:41,598 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:19:41,604 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:19:41,609 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:19:41,620 - INFO - Trovati 202 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:19:41,669 - INFO - Trovati 235 elementi unici per analisi
+2025-03-01 05:19:43,697 - INFO - Controllando pagina 9/10: https://www.subito.it/annunci-italia/vendita/usato/?q=bicicletta&o=9
+2025-03-01 05:19:44,763 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:19:44,769 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:19:44,775 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:19:44,779 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:19:44,790 - INFO - Trovati 202 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:19:44,843 - INFO - Trovati 235 elementi unici per analisi
+2025-03-01 05:19:46,868 - INFO - Controllando pagina 10/10: https://www.subito.it/annunci-italia/vendita/usato/?q=bicicletta&o=10
+2025-03-01 05:19:47,335 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:19:47,341 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:19:47,348 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:19:47,353 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:19:47,379 - INFO - Trovati 202 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:19:47,480 - INFO - Trovati 235 elementi unici per analisi
+2025-03-01 05:19:47,501 - INFO - Trovati 1311 prodotti totali su 10 pagine
+2025-03-01 05:19:47,501 - INFO - Filtrati a 187 prodotti unici
+2025-03-01 05:19:47,501 - INFO - Trovati 187 prodotti per 'bicicletta', di cui 17 nel range di prezzo €140.0-€200.0
+2025-03-01 05:19:47,502 - INFO - Pianificato controllo ogni 30 minuti per 'bicicletta'
+2025-03-01 05:21:19,121 - INFO - Monitor dei prezzi interrotto dall'utente
+2025-03-01 05:22:51,149 - INFO - Avvio del monitor dei prezzi di Subito.it
+2025-03-01 05:22:51,149 - INFO - Controllo dei prezzi per 'scheda video rtx 3060' (min €100.0, max €150.0)...
+2025-03-01 05:22:51,149 - INFO - Controllando pagina 1/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+3060
+2025-03-01 05:22:51,492 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:22:51,499 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:22:51,506 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:22:51,511 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:22:51,522 - INFO - Trovati 200 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:22:51,573 - INFO - Trovati 232 elementi unici per analisi
+2025-03-01 05:22:53,598 - INFO - Controllando pagina 2/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+3060&o=2
+2025-03-01 05:22:53,904 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:22:53,911 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:22:53,917 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:22:53,922 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:22:53,932 - INFO - Trovati 205 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:22:53,979 - INFO - Trovati 237 elementi unici per analisi
+2025-03-01 05:22:56,005 - INFO - Controllando pagina 3/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+3060&o=3
+2025-03-01 05:22:56,395 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:22:56,401 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:22:56,407 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:22:56,411 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:22:56,421 - INFO - Trovati 208 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:22:56,466 - INFO - Trovati 239 elementi unici per analisi
+2025-03-01 05:22:58,490 - INFO - Controllando pagina 4/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+3060&o=4
+2025-03-01 05:22:58,990 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:22:58,996 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:22:59,002 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:22:59,007 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:22:59,018 - INFO - Trovati 205 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:22:59,077 - INFO - Trovati 237 elementi unici per analisi
+2025-03-01 05:23:01,100 - INFO - Controllando pagina 5/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+3060&o=5
+2025-03-01 05:23:01,601 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:23:01,607 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:23:01,614 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:23:01,619 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:23:01,628 - INFO - Trovati 202 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:23:01,674 - INFO - Trovati 235 elementi unici per analisi
+2025-03-01 05:23:03,697 - INFO - Controllando pagina 6/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+3060&o=6
+2025-03-01 05:23:04,073 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:23:04,079 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:23:04,085 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:23:04,089 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:23:04,099 - INFO - Trovati 204 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:23:04,145 - INFO - Trovati 236 elementi unici per analisi
+2025-03-01 05:23:06,167 - INFO - Controllando pagina 7/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+3060&o=7
+2025-03-01 05:23:06,504 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:23:06,510 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:23:06,517 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:23:06,521 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:23:06,531 - INFO - Trovati 208 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:23:06,576 - INFO - Trovati 238 elementi unici per analisi
+2025-03-01 05:23:08,604 - INFO - Controllando pagina 8/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+3060&o=8
+2025-03-01 05:23:09,422 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:23:09,428 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:23:09,435 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:23:09,440 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:23:09,450 - INFO - Trovati 204 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:23:09,496 - INFO - Trovati 237 elementi unici per analisi
+2025-03-01 05:23:11,520 - INFO - Controllando pagina 9/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+3060&o=9
+2025-03-01 05:23:11,996 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:23:12,002 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:23:12,009 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:23:12,014 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:23:12,024 - INFO - Trovati 203 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:23:12,088 - INFO - Trovati 236 elementi unici per analisi
+2025-03-01 05:23:14,110 - INFO - Controllando pagina 10/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+3060&o=10
+2025-03-01 05:23:14,701 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:23:14,707 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:23:14,714 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:23:14,719 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:23:14,728 - INFO - Trovati 208 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:23:14,773 - INFO - Trovati 240 elementi unici per analisi
+2025-03-01 05:23:14,792 - INFO - Trovati 1194 prodotti totali su 10 pagine
+2025-03-01 05:23:14,792 - INFO - Filtrati a 154 prodotti unici
+2025-03-01 05:23:14,792 - INFO - Trovati 154 prodotti per 'scheda video rtx 3060', di cui 1 nel range di prezzo €100.0-€150.0
+2025-03-01 05:23:14,792 - INFO - Pianificato controllo ogni 30 minuti per 'scheda video rtx 3060'
+2025-03-01 05:23:39,307 - INFO - Monitor dei prezzi interrotto dall'utente
+2025-03-01 05:24:15,084 - INFO - Avvio del monitor dei prezzi di Subito.it
+2025-03-01 05:24:15,084 - INFO - Controllo dei prezzi per 'scheda video rtx 3060' (min €150.0, max €250.0)...
+2025-03-01 05:24:15,084 - INFO - Controllando pagina 1/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+3060
+2025-03-01 05:24:15,332 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:24:15,338 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:24:15,343 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:24:15,347 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:24:15,357 - INFO - Trovati 200 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:24:15,480 - INFO - Trovati 232 elementi unici per analisi
+2025-03-01 05:24:17,506 - INFO - Controllando pagina 2/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+3060&o=2
+2025-03-01 05:24:17,635 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:24:17,642 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:24:17,648 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:24:17,653 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:24:17,663 - INFO - Trovati 205 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:24:17,710 - INFO - Trovati 237 elementi unici per analisi
+2025-03-01 05:24:19,735 - INFO - Controllando pagina 3/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+3060&o=3
+2025-03-01 05:24:19,859 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:24:19,864 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:24:19,869 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:24:19,873 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:24:19,883 - INFO - Trovati 208 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:24:19,929 - INFO - Trovati 239 elementi unici per analisi
+2025-03-01 05:24:22,038 - INFO - Controllando pagina 4/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+3060&o=4
+2025-03-01 05:24:22,175 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:24:22,182 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:24:22,188 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:24:22,194 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:24:22,204 - INFO - Trovati 205 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:24:22,251 - INFO - Trovati 237 elementi unici per analisi
+2025-03-01 05:24:24,275 - INFO - Controllando pagina 5/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+3060&o=5
+2025-03-01 05:24:25,010 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:24:25,017 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:24:25,023 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:24:25,050 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:24:25,059 - INFO - Trovati 202 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:24:25,106 - INFO - Trovati 235 elementi unici per analisi
+2025-03-01 05:24:27,129 - INFO - Controllando pagina 6/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+3060&o=6
+2025-03-01 05:24:27,257 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:24:27,263 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:24:27,269 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:24:27,273 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:24:27,283 - INFO - Trovati 204 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:24:27,330 - INFO - Trovati 236 elementi unici per analisi
+2025-03-01 05:24:29,352 - INFO - Controllando pagina 7/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+3060&o=7
+2025-03-01 05:24:29,485 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:24:29,492 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:24:29,498 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:24:29,503 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:24:29,512 - INFO - Trovati 208 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:24:29,557 - INFO - Trovati 238 elementi unici per analisi
+2025-03-01 05:24:31,586 - INFO - Controllando pagina 8/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+3060&o=8
+2025-03-01 05:24:31,729 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:24:31,735 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:24:31,742 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:24:31,747 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:24:31,757 - INFO - Trovati 204 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:24:31,802 - INFO - Trovati 237 elementi unici per analisi
+2025-03-01 05:24:33,826 - INFO - Controllando pagina 9/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+3060&o=9
+2025-03-01 05:24:34,037 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:24:34,044 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:24:34,052 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:24:34,056 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:24:34,066 - INFO - Trovati 203 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:24:34,120 - INFO - Trovati 236 elementi unici per analisi
+2025-03-01 05:24:36,142 - INFO - Controllando pagina 10/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+3060&o=10
+2025-03-01 05:24:36,268 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:24:36,273 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:24:36,278 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:24:36,283 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:24:36,295 - INFO - Trovati 208 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:24:36,343 - INFO - Trovati 240 elementi unici per analisi
+2025-03-01 05:24:36,362 - INFO - Trovati 1194 prodotti totali su 10 pagine
+2025-03-01 05:24:36,363 - INFO - Filtrati a 154 prodotti unici
+2025-03-01 05:24:36,363 - INFO - Trovati 154 prodotti per 'scheda video rtx 3060', di cui 47 nel range di prezzo €150.0-€250.0
+2025-03-01 05:24:36,363 - INFO - Pianificato controllo ogni 30 minuti per 'scheda video rtx 3060'
+2025-03-01 05:39:24,854 - INFO - Monitor dei prezzi interrotto dall'utente
+2025-03-01 05:39:30,933 - INFO - Avvio del monitor dei prezzi di Subito.it
+2025-03-01 05:39:30,934 - INFO - Controllo dei prezzi per 'scheda video rtx 3060' (min €150.0, max €250.0)...
+2025-03-01 05:39:30,934 - INFO - Controllando pagina 1/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+3060
+2025-03-01 05:39:31,223 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:39:31,230 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:39:31,236 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:39:31,240 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:39:31,250 - INFO - Trovati 200 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:39:31,297 - INFO - Trovati 233 elementi unici per analisi
+2025-03-01 05:39:33,344 - INFO - Controllando pagina 2/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+3060&o=2
+2025-03-01 05:39:33,636 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:39:33,644 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:39:33,651 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:39:33,656 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:39:33,667 - INFO - Trovati 206 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:39:33,712 - INFO - Trovati 230 elementi unici per analisi
+2025-03-01 05:39:35,753 - INFO - Controllando pagina 3/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+3060&o=3
+2025-03-01 05:39:36,038 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:39:36,044 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:39:36,051 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:39:36,056 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:39:36,066 - INFO - Trovati 209 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:39:36,111 - INFO - Trovati 240 elementi unici per analisi
+2025-03-01 05:39:38,147 - INFO - Controllando pagina 4/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+3060&o=4
+2025-03-01 05:39:38,426 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:39:38,433 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:39:38,439 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:39:38,444 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:39:38,454 - INFO - Trovati 204 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:39:38,499 - INFO - Trovati 236 elementi unici per analisi
+2025-03-01 05:39:40,540 - INFO - Controllando pagina 5/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+3060&o=5
+2025-03-01 05:39:40,930 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:39:40,936 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:39:40,942 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:39:40,947 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:39:40,957 - INFO - Trovati 201 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:39:41,010 - INFO - Trovati 234 elementi unici per analisi
+2025-03-01 05:39:43,053 - INFO - Controllando pagina 6/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+3060&o=6
+2025-03-01 05:39:43,341 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:39:43,347 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:39:43,354 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:39:43,359 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:39:43,369 - INFO - Trovati 204 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:39:43,415 - INFO - Trovati 236 elementi unici per analisi
+2025-03-01 05:39:45,457 - INFO - Controllando pagina 7/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+3060&o=7
+2025-03-01 05:39:45,743 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:39:45,749 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:39:45,756 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:39:45,760 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:39:45,770 - INFO - Trovati 209 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:39:45,814 - INFO - Trovati 239 elementi unici per analisi
+2025-03-01 05:39:47,855 - INFO - Controllando pagina 8/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+3060&o=8
+2025-03-01 05:39:48,464 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:39:48,470 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:39:48,476 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:39:48,481 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:39:48,491 - INFO - Trovati 205 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:39:48,536 - INFO - Trovati 238 elementi unici per analisi
+2025-03-01 05:39:50,578 - INFO - Controllando pagina 9/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+3060&o=9
+2025-03-01 05:39:51,036 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:39:51,044 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:39:51,052 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:39:51,068 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:39:51,080 - INFO - Trovati 202 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:39:51,134 - INFO - Trovati 235 elementi unici per analisi
+2025-03-01 05:39:53,179 - INFO - Controllando pagina 10/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+3060&o=10
+2025-03-01 05:39:53,852 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:39:53,859 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:39:53,865 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:39:53,870 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:39:53,881 - INFO - Trovati 207 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:39:53,925 - INFO - Trovati 240 elementi unici per analisi
+2025-03-01 05:39:53,958 - INFO - Trovati 756 prodotti totali su 10 pagine
+2025-03-01 05:39:53,959 - INFO - Filtrati a 101 prodotti unici
+2025-03-01 05:39:53,959 - INFO - Trovati 101 prodotti per 'scheda video rtx 3060', di cui 16 nel range di prezzo €150.0-€250.0
+2025-03-01 05:39:53,959 - INFO - Pianificato controllo ogni 30 minuti per 'scheda video rtx 3060'
+2025-03-01 05:43:39,492 - INFO - Monitor dei prezzi interrotto dall'utente
+2025-03-01 05:43:56,183 - INFO - Avvio del monitor dei prezzi di Subito.it
+2025-03-01 05:43:56,183 - INFO - Controllo dei prezzi per 'scheda video rtx 4060' (min €150.0, max €250.0)...
+2025-03-01 05:43:56,183 - INFO - Controllando pagina 1/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+4060
+2025-03-01 05:43:56,515 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:43:56,522 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:43:56,529 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:43:56,533 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:43:56,544 - INFO - Trovati 202 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:43:56,594 - INFO - Trovati 233 elementi unici per analisi
+2025-03-01 05:43:58,651 - INFO - Controllando pagina 2/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+4060&o=2
+2025-03-01 05:43:59,005 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:43:59,012 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:43:59,019 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:43:59,024 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:43:59,034 - INFO - Trovati 207 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:43:59,080 - INFO - Trovati 231 elementi unici per analisi
+2025-03-01 05:44:01,125 - INFO - Controllando pagina 3/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+4060&o=3
+2025-03-01 05:44:01,875 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:44:01,881 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:44:01,887 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:44:01,891 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:44:01,900 - INFO - Trovati 207 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:44:01,944 - INFO - Trovati 239 elementi unici per analisi
+2025-03-01 05:44:03,992 - INFO - Controllando pagina 4/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+4060&o=4
+2025-03-01 05:44:04,341 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:44:04,346 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:44:04,353 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:44:04,357 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:44:04,366 - INFO - Trovati 210 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:44:04,412 - INFO - Trovati 241 elementi unici per analisi
+2025-03-01 05:44:06,449 - INFO - Controllando pagina 5/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+4060&o=5
+2025-03-01 05:44:07,460 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:44:07,466 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:44:07,473 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:44:07,477 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:44:07,487 - INFO - Trovati 211 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:44:07,533 - INFO - Trovati 243 elementi unici per analisi
+2025-03-01 05:44:09,575 - INFO - Controllando pagina 6/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+4060&o=6
+2025-03-01 05:44:10,003 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:44:10,008 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:44:10,013 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:44:10,017 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:44:10,026 - INFO - Trovati 208 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:44:10,071 - INFO - Trovati 240 elementi unici per analisi
+2025-03-01 05:44:12,116 - INFO - Controllando pagina 7/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+4060&o=7
+2025-03-01 05:44:12,476 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:44:12,482 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:44:12,489 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:44:12,494 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:44:12,504 - INFO - Trovati 207 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:44:12,550 - INFO - Trovati 240 elementi unici per analisi
+2025-03-01 05:44:14,590 - INFO - Controllando pagina 8/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+4060&o=8
+2025-03-01 05:44:14,837 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:44:14,841 - INFO - Trovati 5 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:44:14,845 - INFO - Trovati 5 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:44:14,849 - INFO - Trovati 5 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:44:14,856 - INFO - Trovati 32 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:44:14,868 - INFO - Trovati 37 elementi unici per analisi
+2025-03-01 05:44:16,880 - INFO - Controllando pagina 9/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+4060&o=9
+2025-03-01 05:44:17,098 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:44:17,118 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 05:44:17,118 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 05:44:17,120 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 05:44:19,125 - INFO - Controllando pagina 10/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+4060&o=10
+2025-03-01 05:44:19,612 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:44:19,630 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 05:44:19,631 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 05:44:19,633 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 05:44:19,633 - INFO - Trovati 623 prodotti totali su 10 pagine
+2025-03-01 05:44:19,633 - INFO - Filtrati a 76 prodotti unici
+2025-03-01 05:44:19,633 - INFO - Trovati 76 prodotti per 'scheda video rtx 4060', di cui 2 nel range di prezzo €150.0-€250.0
+2025-03-01 05:44:19,633 - INFO - Pianificato controllo ogni 30 minuti per 'scheda video rtx 4060'
+2025-03-01 05:45:33,842 - INFO - Monitor dei prezzi interrotto dall'utente
+2025-03-01 05:46:41,883 - INFO - Avvio del monitor dei prezzi di Subito.it
+2025-03-01 05:46:41,883 - INFO - Controllo dei prezzi per 'scheda video rtx 4060' (min €150.0, max €300.0)...
+2025-03-01 05:46:41,883 - INFO - Controllando pagina 1/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+4060
+2025-03-01 05:46:42,242 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:46:42,249 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:46:42,255 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:46:42,260 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:46:42,270 - INFO - Trovati 202 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:46:42,319 - INFO - Trovati 233 elementi unici per analisi
+2025-03-01 05:46:44,366 - INFO - Controllando pagina 2/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+4060&o=2
+2025-03-01 05:46:44,487 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:46:44,493 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:46:44,500 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:46:44,505 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:46:44,515 - INFO - Trovati 207 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:46:44,562 - INFO - Trovati 231 elementi unici per analisi
+2025-03-01 05:46:46,605 - INFO - Controllando pagina 3/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+4060&o=3
+2025-03-01 05:46:46,809 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:46:46,815 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:46:46,821 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:46:46,826 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:46:46,835 - INFO - Trovati 207 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:46:46,880 - INFO - Trovati 239 elementi unici per analisi
+2025-03-01 05:46:48,919 - INFO - Controllando pagina 4/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+4060&o=4
+2025-03-01 05:46:49,036 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:46:49,043 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:46:49,050 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:46:49,055 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:46:49,065 - INFO - Trovati 210 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:46:49,109 - INFO - Trovati 241 elementi unici per analisi
+2025-03-01 05:46:51,145 - INFO - Controllando pagina 5/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+4060&o=5
+2025-03-01 05:46:51,277 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:46:51,284 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:46:51,290 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:46:51,294 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:46:51,305 - INFO - Trovati 211 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:46:51,349 - INFO - Trovati 243 elementi unici per analisi
+2025-03-01 05:46:53,389 - INFO - Controllando pagina 6/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+4060&o=6
+2025-03-01 05:46:53,613 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:46:53,619 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:46:53,626 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:46:53,631 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:46:53,641 - INFO - Trovati 208 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:46:53,684 - INFO - Trovati 240 elementi unici per analisi
+2025-03-01 05:46:55,724 - INFO - Controllando pagina 7/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+4060&o=7
+2025-03-01 05:46:55,920 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:46:55,925 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:46:55,931 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:46:55,935 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:46:55,944 - INFO - Trovati 207 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:46:56,009 - INFO - Trovati 240 elementi unici per analisi
+2025-03-01 05:46:58,050 - INFO - Controllando pagina 8/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+4060&o=8
+2025-03-01 05:46:58,187 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:46:58,191 - INFO - Trovati 5 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 05:46:58,195 - INFO - Trovati 5 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 05:46:58,199 - INFO - Trovati 5 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 05:46:58,206 - INFO - Trovati 32 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 05:46:58,217 - INFO - Trovati 37 elementi unici per analisi
+2025-03-01 05:47:00,230 - INFO - Controllando pagina 9/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+4060&o=9
+2025-03-01 05:47:00,499 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:47:00,519 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 05:47:00,519 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 05:47:00,521 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 05:47:02,526 - INFO - Controllando pagina 10/10: https://www.subito.it/annunci-italia/vendita/usato/?q=scheda+video+rtx+4060&o=10
+2025-03-01 05:47:02,756 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 05:47:02,771 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 05:47:02,771 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 05:47:02,772 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 05:47:02,772 - INFO - Trovati 623 prodotti totali su 10 pagine
+2025-03-01 05:47:02,773 - INFO - Filtrati a 76 prodotti unici
+2025-03-01 05:47:02,773 - INFO - Trovati 76 prodotti per 'scheda video rtx 4060', di cui 6 nel range di prezzo €150.0-€300.0
+2025-03-01 05:47:02,773 - INFO - Pianificato controllo ogni 30 minuti per 'scheda video rtx 4060'
+2025-03-01 05:58:11,348 - INFO - Monitor dei prezzi interrotto dall'utente
+2025-03-01 06:01:09,839 - INFO - Avvio del monitor dei prezzi di Subito.it
+2025-03-01 06:01:09,839 - INFO - Controllo dei prezzi per 'iphone 14' (min €300.0, max €350.0)...
+2025-03-01 06:01:09,839 - INFO - Controllando pagina 1/10: https://www.subito.it/annunci-italia/vendita/usato/?q=iphone+14
+2025-03-01 06:01:10,136 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 06:01:10,143 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 06:01:10,149 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 06:01:10,154 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 06:01:10,165 - INFO - Trovati 200 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 06:01:10,213 - INFO - Trovati 231 elementi unici per analisi
+2025-03-01 06:01:12,273 - INFO - Controllando pagina 2/10: https://www.subito.it/annunci-italia/vendita/usato/?q=iphone+14&o=2
+2025-03-01 06:01:12,563 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 06:01:12,570 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 06:01:12,576 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 06:01:12,593 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 06:01:12,653 - INFO - Trovati 200 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 06:01:12,740 - INFO - Trovati 233 elementi unici per analisi
+2025-03-01 06:01:14,798 - INFO - Controllando pagina 3/10: https://www.subito.it/annunci-italia/vendita/usato/?q=iphone+14&o=3
+2025-03-01 06:01:16,287 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 06:01:16,293 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 06:01:16,298 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 06:01:16,302 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 06:01:16,313 - INFO - Trovati 215 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 06:01:16,369 - INFO - Trovati 236 elementi unici per analisi
+2025-03-01 06:01:18,429 - INFO - Controllando pagina 4/10: https://www.subito.it/annunci-italia/vendita/usato/?q=iphone+14&o=4
+2025-03-01 06:01:19,067 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 06:01:19,073 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 06:01:19,080 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 06:01:19,085 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 06:01:19,095 - INFO - Trovati 203 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 06:01:19,145 - INFO - Trovati 235 elementi unici per analisi
+2025-03-01 06:01:21,203 - INFO - Controllando pagina 5/10: https://www.subito.it/annunci-italia/vendita/usato/?q=iphone+14&o=5
+2025-03-01 06:01:21,501 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 06:01:21,508 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 06:01:21,515 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 06:01:21,520 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 06:01:21,530 - INFO - Trovati 208 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 06:01:21,582 - INFO - Trovati 239 elementi unici per analisi
+2025-03-01 06:01:23,640 - INFO - Controllando pagina 6/10: https://www.subito.it/annunci-italia/vendita/usato/?q=iphone+14&o=6
+2025-03-01 06:01:24,456 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 06:01:24,462 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 06:01:24,468 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 06:01:24,473 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 06:01:24,483 - INFO - Trovati 211 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 06:01:24,536 - INFO - Trovati 235 elementi unici per analisi
+2025-03-01 06:01:26,596 - INFO - Controllando pagina 7/10: https://www.subito.it/annunci-italia/vendita/usato/?q=iphone+14&o=7
+2025-03-01 06:01:27,005 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 06:01:27,012 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 06:01:27,019 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 06:01:27,024 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 06:01:27,035 - INFO - Trovati 205 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 06:01:27,087 - INFO - Trovati 238 elementi unici per analisi
+2025-03-01 06:01:29,146 - INFO - Controllando pagina 8/10: https://www.subito.it/annunci-italia/vendita/usato/?q=iphone+14&o=8
+2025-03-01 06:01:29,461 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 06:01:29,467 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 06:01:29,474 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 06:01:29,479 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 06:01:29,489 - INFO - Trovati 209 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 06:01:29,540 - INFO - Trovati 237 elementi unici per analisi
+2025-03-01 06:01:31,599 - INFO - Controllando pagina 9/10: https://www.subito.it/annunci-italia/vendita/usato/?q=iphone+14&o=9
+2025-03-01 06:01:32,360 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 06:01:32,367 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 06:01:32,375 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 06:01:32,380 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 06:01:32,391 - INFO - Trovati 219 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 06:01:32,446 - INFO - Trovati 238 elementi unici per analisi
+2025-03-01 06:01:34,506 - INFO - Controllando pagina 10/10: https://www.subito.it/annunci-italia/vendita/usato/?q=iphone+14&o=10
+2025-03-01 06:01:35,020 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 06:01:35,028 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 06:01:35,036 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 06:01:35,041 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 06:01:35,053 - INFO - Trovati 221 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 06:01:35,106 - INFO - Trovati 236 elementi unici per analisi
+2025-03-01 06:01:35,159 - INFO - Trovati 1894 prodotti totali su 10 pagine
+2025-03-01 06:01:35,159 - INFO - Filtrati a 253 prodotti unici
+2025-03-01 06:01:35,160 - INFO - Trovati 253 prodotti per 'iphone 14', di cui 5 nel range di prezzo €300.0-€350.0
+2025-03-01 06:01:35,160 - INFO - Pianificato controllo ogni 30 minuti per 'iphone 14'
+2025-03-01 06:04:29,312 - INFO - Monitor dei prezzi interrotto dall'utente
+2025-03-01 06:04:51,161 - INFO - Avvio del monitor dei prezzi di Subito.it
+2025-03-01 06:04:51,161 - INFO - Controllo dei prezzi per 'iphone 15' (min €300.0, max €350.0)...
+2025-03-01 06:04:51,161 - INFO - Controllando pagina 1/10: https://www.subito.it/annunci-italia/vendita/usato/?q=iphone+15
+2025-03-01 06:04:51,706 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 06:04:51,713 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 06:04:51,718 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 06:04:51,723 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 06:04:51,732 - INFO - Trovati 203 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 06:04:51,779 - INFO - Trovati 234 elementi unici per analisi
+2025-03-01 06:04:53,835 - INFO - Controllando pagina 2/10: https://www.subito.it/annunci-italia/vendita/usato/?q=iphone+15&o=2
+2025-03-01 06:04:54,171 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 06:04:54,178 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 06:04:54,185 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 06:04:54,191 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 06:04:54,201 - INFO - Trovati 201 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 06:04:54,250 - INFO - Trovati 234 elementi unici per analisi
+2025-03-01 06:04:56,306 - INFO - Controllando pagina 3/10: https://www.subito.it/annunci-italia/vendita/usato/?q=iphone+15&o=3
+2025-03-01 06:04:56,641 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 06:04:56,647 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 06:04:56,653 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 06:04:56,658 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 06:04:56,668 - INFO - Trovati 211 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 06:04:56,720 - INFO - Trovati 235 elementi unici per analisi
+2025-03-01 06:04:58,774 - INFO - Controllando pagina 4/10: https://www.subito.it/annunci-italia/vendita/usato/?q=iphone+15&o=4
+2025-03-01 06:04:59,533 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 06:04:59,540 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 06:04:59,546 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 06:04:59,551 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 06:04:59,561 - INFO - Trovati 203 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 06:04:59,696 - INFO - Trovati 235 elementi unici per analisi
+2025-03-01 06:05:01,751 - INFO - Controllando pagina 5/10: https://www.subito.it/annunci-italia/vendita/usato/?q=iphone+15&o=5
+2025-03-01 06:05:02,684 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 06:05:02,690 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 06:05:02,697 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 06:05:02,702 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 06:05:02,712 - INFO - Trovati 204 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 06:05:02,761 - INFO - Trovati 235 elementi unici per analisi
+2025-03-01 06:05:04,816 - INFO - Controllando pagina 6/10: https://www.subito.it/annunci-italia/vendita/usato/?q=iphone+15&o=6
+2025-03-01 06:05:05,124 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 06:05:05,131 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 06:05:05,138 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 06:05:05,142 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 06:05:05,152 - INFO - Trovati 202 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 06:05:05,202 - INFO - Trovati 234 elementi unici per analisi
+2025-03-01 06:05:07,261 - INFO - Controllando pagina 7/10: https://www.subito.it/annunci-italia/vendita/usato/?q=iphone+15&o=7
+2025-03-01 06:05:07,594 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 06:05:07,600 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 06:05:07,607 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 06:05:07,612 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 06:05:07,623 - INFO - Trovati 212 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 06:05:07,673 - INFO - Trovati 240 elementi unici per analisi
+2025-03-01 06:05:09,731 - INFO - Controllando pagina 8/10: https://www.subito.it/annunci-italia/vendita/usato/?q=iphone+15&o=8
+2025-03-01 06:05:10,807 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 06:05:10,813 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 06:05:10,820 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 06:05:10,825 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 06:05:10,836 - INFO - Trovati 211 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 06:05:10,887 - INFO - Trovati 236 elementi unici per analisi
+2025-03-01 06:05:12,972 - INFO - Controllando pagina 9/10: https://www.subito.it/annunci-italia/vendita/usato/?q=iphone+15&o=9
+2025-03-01 06:05:13,484 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 06:05:13,491 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 06:05:13,497 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 06:05:13,502 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 06:05:13,512 - INFO - Trovati 212 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 06:05:13,562 - INFO - Trovati 240 elementi unici per analisi
+2025-03-01 06:05:15,621 - INFO - Controllando pagina 10/10: https://www.subito.it/annunci-italia/vendita/usato/?q=iphone+15&o=10
+2025-03-01 06:05:16,054 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 06:05:16,061 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 06:05:16,067 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 06:05:16,072 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 06:05:16,083 - INFO - Trovati 214 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 06:05:16,135 - INFO - Trovati 237 elementi unici per analisi
+2025-03-01 06:05:16,190 - INFO - Trovati 1781 prodotti totali su 10 pagine
+2025-03-01 06:05:16,191 - INFO - Filtrati a 245 prodotti unici
+2025-03-01 06:05:16,192 - INFO - Trovati 245 prodotti per 'iphone 15', di cui 3 nel range di prezzo €300.0-€350.0
+2025-03-01 06:05:16,192 - INFO - Pianificato controllo ogni 30 minuti per 'iphone 15'
+2025-03-01 06:05:58,660 - INFO - Monitor dei prezzi interrotto dall'utente
+2025-03-01 06:06:09,853 - INFO - Avvio del monitor dei prezzi di Subito.it
+2025-03-01 06:06:09,853 - INFO - Controllo dei prezzi per 'iphone 15' (min €300.0, max €400.0)...
+2025-03-01 06:06:09,853 - INFO - Controllando pagina 1/10: https://www.subito.it/annunci-italia/vendita/usato/?q=iphone+15
+2025-03-01 06:06:10,048 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 06:06:10,054 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 06:06:10,060 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 06:06:10,064 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 06:06:10,074 - INFO - Trovati 203 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 06:06:10,121 - INFO - Trovati 234 elementi unici per analisi
+2025-03-01 06:06:12,177 - INFO - Controllando pagina 2/10: https://www.subito.it/annunci-italia/vendita/usato/?q=iphone+15&o=2
+2025-03-01 06:06:12,296 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 06:06:12,302 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 06:06:12,308 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 06:06:12,312 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 06:06:12,322 - INFO - Trovati 201 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 06:06:12,371 - INFO - Trovati 234 elementi unici per analisi
+2025-03-01 06:06:14,512 - INFO - Controllando pagina 3/10: https://www.subito.it/annunci-italia/vendita/usato/?q=iphone+15&o=3
+2025-03-01 06:06:14,736 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 06:06:14,742 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 06:06:14,748 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 06:06:14,753 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 06:06:14,764 - INFO - Trovati 211 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 06:06:14,815 - INFO - Trovati 235 elementi unici per analisi
+2025-03-01 06:06:16,875 - INFO - Controllando pagina 4/10: https://www.subito.it/annunci-italia/vendita/usato/?q=iphone+15&o=4
+2025-03-01 06:06:17,005 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 06:06:17,011 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 06:06:17,017 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 06:06:17,023 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 06:06:17,034 - INFO - Trovati 203 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 06:06:17,083 - INFO - Trovati 235 elementi unici per analisi
+2025-03-01 06:06:19,139 - INFO - Controllando pagina 5/10: https://www.subito.it/annunci-italia/vendita/usato/?q=iphone+15&o=5
+2025-03-01 06:06:19,321 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 06:06:19,327 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 06:06:19,334 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 06:06:19,339 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 06:06:19,350 - INFO - Trovati 204 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 06:06:19,400 - INFO - Trovati 235 elementi unici per analisi
+2025-03-01 06:06:21,501 - INFO - Controllando pagina 6/10: https://www.subito.it/annunci-italia/vendita/usato/?q=iphone+15&o=6
+2025-03-01 06:06:22,088 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 06:06:22,095 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 06:06:22,102 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 06:06:22,107 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 06:06:22,119 - INFO - Trovati 202 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 06:06:22,168 - INFO - Trovati 234 elementi unici per analisi
+2025-03-01 06:06:24,232 - INFO - Controllando pagina 7/10: https://www.subito.it/annunci-italia/vendita/usato/?q=iphone+15&o=7
+2025-03-01 06:06:24,437 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 06:06:24,444 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 06:06:24,450 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 06:06:24,455 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 06:06:24,466 - INFO - Trovati 212 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 06:06:24,515 - INFO - Trovati 240 elementi unici per analisi
+2025-03-01 06:06:26,576 - INFO - Controllando pagina 8/10: https://www.subito.it/annunci-italia/vendita/usato/?q=iphone+15&o=8
+2025-03-01 06:06:26,722 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 06:06:26,729 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 06:06:26,756 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 06:06:26,773 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 06:06:26,789 - INFO - Trovati 211 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 06:06:26,842 - INFO - Trovati 236 elementi unici per analisi
+2025-03-01 06:06:28,915 - INFO - Controllando pagina 9/10: https://www.subito.it/annunci-italia/vendita/usato/?q=iphone+15&o=9
+2025-03-01 06:06:29,041 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 06:06:29,048 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 06:06:29,054 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 06:06:29,060 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 06:06:29,070 - INFO - Trovati 212 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 06:06:29,120 - INFO - Trovati 240 elementi unici per analisi
+2025-03-01 06:06:31,182 - INFO - Controllando pagina 10/10: https://www.subito.it/annunci-italia/vendita/usato/?q=iphone+15&o=10
+2025-03-01 06:06:31,369 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 06:06:31,376 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 06:06:31,383 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 06:06:31,388 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 06:06:31,399 - INFO - Trovati 214 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 06:06:31,450 - INFO - Trovati 237 elementi unici per analisi
+2025-03-01 06:06:31,584 - INFO - Trovati 1781 prodotti totali su 10 pagine
+2025-03-01 06:06:31,585 - INFO - Filtrati a 245 prodotti unici
+2025-03-01 06:06:31,585 - INFO - Trovati 245 prodotti per 'iphone 15', di cui 7 nel range di prezzo €300.0-€400.0
+2025-03-01 06:06:31,585 - INFO - Pianificato controllo ogni 30 minuti per 'iphone 15'
+2025-03-01 06:09:34,841 - INFO - Monitor dei prezzi interrotto dall'utente
+2025-03-01 15:50:51,869 - INFO - Avvio del monitor dei prezzi di Subito.it
+2025-03-01 15:50:51,869 - INFO - Controllo dei prezzi per 'cpu ryzen 9' (min €300.0, max €400.0)...
+2025-03-01 15:50:51,869 - INFO - Controllando pagina 1/10: https://www.subito.it/annunci-italia/vendita/usato/?q=cpu+ryzen+9
+2025-03-01 15:50:52,237 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 15:50:52,244 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 15:50:52,250 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 15:50:52,255 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 15:50:52,265 - INFO - Trovati 207 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 15:50:52,315 - INFO - Trovati 230 elementi unici per analisi
+2025-03-01 15:50:54,361 - INFO - Controllando pagina 2/10: https://www.subito.it/annunci-italia/vendita/usato/?q=cpu+ryzen+9&o=2
+2025-03-01 15:50:55,408 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 15:50:55,417 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 15:50:55,428 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 15:50:55,432 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 15:50:55,441 - INFO - Trovati 201 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 15:50:55,496 - INFO - Trovati 234 elementi unici per analisi
+2025-03-01 15:50:57,561 - INFO - Controllando pagina 3/10: https://www.subito.it/annunci-italia/vendita/usato/?q=cpu+ryzen+9&o=3
+2025-03-01 15:50:58,091 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 15:50:58,097 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 15:50:58,102 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 15:50:58,107 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 15:50:58,116 - INFO - Trovati 204 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 15:50:58,161 - INFO - Trovati 237 elementi unici per analisi
+2025-03-01 15:51:00,206 - INFO - Controllando pagina 4/10: https://www.subito.it/annunci-italia/vendita/usato/?q=cpu+ryzen+9&o=4
+2025-03-01 15:51:00,894 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 15:51:00,900 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 15:51:00,906 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 15:51:00,911 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 15:51:00,921 - INFO - Trovati 206 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 15:51:00,965 - INFO - Trovati 239 elementi unici per analisi
+2025-03-01 15:51:03,008 - INFO - Controllando pagina 5/10: https://www.subito.it/annunci-italia/vendita/usato/?q=cpu+ryzen+9&o=5
+2025-03-01 15:51:03,509 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 15:51:03,516 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 15:51:03,522 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 15:51:03,527 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 15:51:03,536 - INFO - Trovati 205 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 15:51:03,582 - INFO - Trovati 237 elementi unici per analisi
+2025-03-01 15:51:05,626 - INFO - Controllando pagina 6/10: https://www.subito.it/annunci-italia/vendita/usato/?q=cpu+ryzen+9&o=6
+2025-03-01 15:51:05,946 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 15:51:05,950 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 15:51:05,955 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 15:51:05,959 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 15:51:05,967 - INFO - Trovati 206 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 15:51:06,010 - INFO - Trovati 239 elementi unici per analisi
+2025-03-01 15:51:08,051 - INFO - Controllando pagina 7/10: https://www.subito.it/annunci-italia/vendita/usato/?q=cpu+ryzen+9&o=7
+2025-03-01 15:51:08,645 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 15:51:08,654 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 15:51:08,660 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 15:51:08,665 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 15:51:08,674 - INFO - Trovati 206 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 15:51:08,721 - INFO - Trovati 239 elementi unici per analisi
+2025-03-01 15:51:10,797 - INFO - Controllando pagina 8/10: https://www.subito.it/annunci-italia/vendita/usato/?q=cpu+ryzen+9&o=8
+2025-03-01 15:51:11,196 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 15:51:11,203 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 15:51:11,209 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 15:51:11,214 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 15:51:11,224 - INFO - Trovati 206 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 15:51:11,269 - INFO - Trovati 239 elementi unici per analisi
+2025-03-01 15:51:13,309 - INFO - Controllando pagina 9/10: https://www.subito.it/annunci-italia/vendita/usato/?q=cpu+ryzen+9&o=9
+2025-03-01 15:51:14,111 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 15:51:14,117 - INFO - Trovati 29 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 15:51:14,122 - INFO - Trovati 29 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 15:51:14,127 - INFO - Trovati 29 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 15:51:14,136 - INFO - Trovati 183 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 15:51:14,177 - INFO - Trovati 211 elementi unici per analisi
+2025-03-01 15:51:16,213 - INFO - Controllando pagina 10/10: https://www.subito.it/annunci-italia/vendita/usato/?q=cpu+ryzen+9&o=10
+2025-03-01 15:51:16,691 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 15:51:16,710 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 15:51:16,710 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 15:51:16,712 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 15:51:16,712 - INFO - Trovati 798 prodotti totali su 10 pagine
+2025-03-01 15:51:16,712 - INFO - Filtrati a 92 prodotti unici
+2025-03-01 15:51:16,713 - INFO - Trovati 92 prodotti per 'cpu ryzen 9', di cui 8 nel range di prezzo €300.0-€400.0
+2025-03-01 15:51:16,713 - INFO - Pianificato controllo ogni 30 minuti per 'cpu ryzen 9'
+2025-03-01 15:59:17,795 - INFO - Monitor dei prezzi interrotto dall'utente
+2025-03-01 16:12:01,612 - INFO - Avvio del monitor dei prezzi di Subito.it
+2025-03-01 16:12:01,612 - INFO - Controllo dei prezzi per 'server rack' (min €300.0, max €400.0)...
+2025-03-01 16:12:01,612 - INFO - Controllando pagina 1/10: https://www.subito.it/annunci-italia/vendita/usato/?q=server+rack
+2025-03-01 16:12:02,105 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 16:12:02,112 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 16:12:02,119 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 16:12:02,124 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 16:12:02,134 - INFO - Trovati 199 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 16:12:02,186 - INFO - Trovati 228 elementi unici per analisi
+2025-03-01 16:12:04,244 - INFO - Controllando pagina 2/10: https://www.subito.it/annunci-italia/vendita/usato/?q=server+rack&o=2
+2025-03-01 16:12:04,655 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 16:12:04,663 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 16:12:04,671 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 16:12:04,676 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 16:12:04,688 - INFO - Trovati 199 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 16:12:04,738 - INFO - Trovati 231 elementi unici per analisi
+2025-03-01 16:12:06,794 - INFO - Controllando pagina 3/10: https://www.subito.it/annunci-italia/vendita/usato/?q=server+rack&o=3
+2025-03-01 16:12:07,155 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 16:12:07,161 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 16:12:07,167 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 16:12:07,171 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 16:12:07,180 - INFO - Trovati 200 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 16:12:07,228 - INFO - Trovati 233 elementi unici per analisi
+2025-03-01 16:12:09,282 - INFO - Controllando pagina 4/10: https://www.subito.it/annunci-italia/vendita/usato/?q=server+rack&o=4
+2025-03-01 16:12:09,666 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 16:12:09,673 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 16:12:09,681 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 16:12:09,686 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 16:12:09,697 - INFO - Trovati 198 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 16:12:09,747 - INFO - Trovati 231 elementi unici per analisi
+2025-03-01 16:12:11,802 - INFO - Controllando pagina 5/10: https://www.subito.it/annunci-italia/vendita/usato/?q=server+rack&o=5
+2025-03-01 16:12:12,150 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 16:12:12,156 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 16:12:12,163 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 16:12:12,167 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 16:12:12,177 - INFO - Trovati 200 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 16:12:12,261 - INFO - Trovati 233 elementi unici per analisi
+2025-03-01 16:12:14,316 - INFO - Controllando pagina 6/10: https://www.subito.it/annunci-italia/vendita/usato/?q=server+rack&o=6
+2025-03-01 16:12:14,808 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 16:12:14,814 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 16:12:14,821 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 16:12:14,826 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 16:12:14,868 - INFO - Trovati 199 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 16:12:14,946 - INFO - Trovati 232 elementi unici per analisi
+2025-03-01 16:12:17,001 - INFO - Controllando pagina 7/10: https://www.subito.it/annunci-italia/vendita/usato/?q=server+rack&o=7
+2025-03-01 16:12:17,772 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 16:12:17,779 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 16:12:17,785 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 16:12:17,790 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 16:12:17,800 - INFO - Trovati 198 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 16:12:17,846 - INFO - Trovati 231 elementi unici per analisi
+2025-03-01 16:12:19,902 - INFO - Controllando pagina 8/10: https://www.subito.it/annunci-italia/vendita/usato/?q=server+rack&o=8
+2025-03-01 16:12:20,282 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 16:12:20,288 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 16:12:20,295 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 16:12:20,299 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 16:12:20,309 - INFO - Trovati 198 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 16:12:20,397 - INFO - Trovati 231 elementi unici per analisi
+2025-03-01 16:12:22,452 - INFO - Controllando pagina 9/10: https://www.subito.it/annunci-italia/vendita/usato/?q=server+rack&o=9
+2025-03-01 16:12:22,815 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 16:12:22,822 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 16:12:22,829 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 16:12:22,834 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 16:12:22,845 - INFO - Trovati 198 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 16:12:22,893 - INFO - Trovati 231 elementi unici per analisi
+2025-03-01 16:12:24,952 - INFO - Controllando pagina 10/10: https://www.subito.it/annunci-italia/vendita/usato/?q=server+rack&o=10
+2025-03-01 16:12:25,502 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 16:12:25,508 - INFO - Trovati 32 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 16:12:25,514 - INFO - Trovati 32 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 16:12:25,518 - INFO - Trovati 32 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 16:12:25,528 - INFO - Trovati 194 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 16:12:25,585 - INFO - Trovati 226 elementi unici per analisi
+2025-03-01 16:12:25,688 - INFO - Trovati 1676 prodotti totali su 10 pagine
+2025-03-01 16:12:25,688 - INFO - Filtrati a 220 prodotti unici
+2025-03-01 16:12:25,689 - INFO - Trovati 220 prodotti per 'server rack', di cui 29 nel range di prezzo €300.0-€400.0
+2025-03-01 16:12:25,689 - INFO - Pianificato controllo ogni 30 minuti per 'server rack'
+2025-03-01 16:26:27,700 - INFO - Monitor dei prezzi interrotto dall'utente
+2025-03-01 16:27:48,735 - INFO - Avvio del monitor dei prezzi di Subito.it
+2025-03-01 16:27:48,735 - INFO - Controllo dei prezzi per 'monitor 4k oled' (min €200.0, max €300.0)...
+2025-03-01 16:27:48,735 - INFO - Controllando pagina 1/10: https://www.subito.it/annunci-italia/vendita/usato/?q=monitor+4k+oled
+2025-03-01 16:27:49,013 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 16:27:49,020 - INFO - Trovati 30 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 16:27:49,026 - INFO - Trovati 30 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 16:27:49,031 - INFO - Trovati 30 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 16:27:49,040 - INFO - Trovati 186 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 16:27:49,082 - INFO - Trovati 215 elementi unici per analisi
+2025-03-01 16:27:51,128 - INFO - Controllando pagina 2/10: https://www.subito.it/annunci-italia/vendita/usato/?q=monitor+4k+oled&o=2
+2025-03-01 16:27:51,491 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 16:27:51,497 - INFO - Trovati 30 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 16:27:51,504 - INFO - Trovati 30 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 16:27:51,508 - INFO - Trovati 30 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 16:27:51,518 - INFO - Trovati 186 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 16:27:51,559 - INFO - Trovati 216 elementi unici per analisi
+2025-03-01 16:27:53,602 - INFO - Controllando pagina 3/10: https://www.subito.it/annunci-italia/vendita/usato/?q=monitor+4k+oled&o=3
+2025-03-01 16:27:53,832 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 16:27:53,836 - INFO - Trovati 1 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 16:27:53,839 - INFO - Trovati 1 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 16:27:53,843 - INFO - Trovati 1 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 16:27:53,849 - INFO - Trovati 6 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 16:27:53,854 - INFO - Trovati 7 elementi unici per analisi
+2025-03-01 16:27:55,863 - INFO - Controllando pagina 4/10: https://www.subito.it/annunci-italia/vendita/usato/?q=monitor+4k+oled&o=4
+2025-03-01 16:27:56,278 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 16:27:56,299 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 16:27:56,299 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 16:27:56,301 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 16:27:58,304 - INFO - Controllando pagina 5/10: https://www.subito.it/annunci-italia/vendita/usato/?q=monitor+4k+oled&o=5
+2025-03-01 16:27:58,617 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 16:27:58,633 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 16:27:58,633 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 16:27:58,635 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 16:28:00,640 - INFO - Controllando pagina 6/10: https://www.subito.it/annunci-italia/vendita/usato/?q=monitor+4k+oled&o=6
+2025-03-01 16:28:00,929 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 16:28:00,945 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 16:28:00,945 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 16:28:00,947 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 16:28:02,952 - INFO - Controllando pagina 7/10: https://www.subito.it/annunci-italia/vendita/usato/?q=monitor+4k+oled&o=7
+2025-03-01 16:28:03,328 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 16:28:03,339 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 16:28:03,340 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 16:28:03,341 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 16:28:05,346 - INFO - Controllando pagina 8/10: https://www.subito.it/annunci-italia/vendita/usato/?q=monitor+4k+oled&o=8
+2025-03-01 16:28:05,852 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 16:28:05,871 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 16:28:05,871 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 16:28:05,873 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 16:28:07,879 - INFO - Controllando pagina 9/10: https://www.subito.it/annunci-italia/vendita/usato/?q=monitor+4k+oled&o=9
+2025-03-01 16:28:08,086 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 16:28:08,101 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 16:28:08,101 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 16:28:08,103 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 16:28:10,109 - INFO - Controllando pagina 10/10: https://www.subito.it/annunci-italia/vendita/usato/?q=monitor+4k+oled&o=10
+2025-03-01 16:28:10,459 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 16:28:10,478 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 16:28:10,478 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 16:28:10,481 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 16:28:10,481 - INFO - Trovati 259 prodotti totali su 10 pagine
+2025-03-01 16:28:10,481 - INFO - Filtrati a 37 prodotti unici
+2025-03-01 16:28:10,481 - INFO - Trovati 37 prodotti per 'monitor 4k oled', di cui 2 nel range di prezzo €200.0-€300.0
+2025-03-01 16:28:10,481 - INFO - Pianificato controllo ogni 30 minuti per 'monitor 4k oled'
+2025-03-01 17:01:28,468 - INFO - Controllo dei prezzi per 'monitor 4k oled' (min €200.0, max €300.0)...
+2025-03-01 17:01:28,477 - INFO - Controllando pagina 1/10: https://www.subito.it/annunci-italia/vendita/usato/?q=monitor+4k+oled
+2025-03-01 17:01:29,071 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:01:29,077 - INFO - Trovati 30 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 17:01:29,083 - INFO - Trovati 30 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 17:01:29,087 - INFO - Trovati 30 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 17:01:29,097 - INFO - Trovati 186 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 17:01:29,158 - INFO - Trovati 215 elementi unici per analisi
+2025-03-01 17:01:31,218 - INFO - Controllando pagina 2/10: https://www.subito.it/annunci-italia/vendita/usato/?q=monitor+4k+oled&o=2
+2025-03-01 17:01:31,648 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:01:31,654 - INFO - Trovati 30 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 17:01:31,660 - INFO - Trovati 30 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 17:01:31,665 - INFO - Trovati 30 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 17:01:31,681 - INFO - Trovati 186 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 17:01:31,750 - INFO - Trovati 216 elementi unici per analisi
+2025-03-01 17:01:33,827 - INFO - Controllando pagina 3/10: https://www.subito.it/annunci-italia/vendita/usato/?q=monitor+4k+oled&o=3
+2025-03-01 17:01:34,161 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:01:34,165 - INFO - Trovati 1 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 17:01:34,169 - INFO - Trovati 1 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 17:01:34,172 - INFO - Trovati 1 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 17:01:34,179 - INFO - Trovati 6 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 17:01:34,184 - INFO - Trovati 7 elementi unici per analisi
+2025-03-01 17:01:36,197 - INFO - Controllando pagina 4/10: https://www.subito.it/annunci-italia/vendita/usato/?q=monitor+4k+oled&o=4
+2025-03-01 17:01:36,435 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:01:36,454 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:01:36,454 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:01:36,456 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:01:38,466 - INFO - Controllando pagina 5/10: https://www.subito.it/annunci-italia/vendita/usato/?q=monitor+4k+oled&o=5
+2025-03-01 17:01:38,715 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:01:38,734 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:01:38,734 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:01:38,736 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:01:40,746 - INFO - Controllando pagina 6/10: https://www.subito.it/annunci-italia/vendita/usato/?q=monitor+4k+oled&o=6
+2025-03-01 17:01:41,028 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:01:41,046 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:01:41,046 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:01:41,048 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:01:43,054 - INFO - Controllando pagina 7/10: https://www.subito.it/annunci-italia/vendita/usato/?q=monitor+4k+oled&o=7
+2025-03-01 17:01:43,524 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:01:43,542 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:01:43,542 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:01:43,544 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:01:45,554 - INFO - Controllando pagina 8/10: https://www.subito.it/annunci-italia/vendita/usato/?q=monitor+4k+oled&o=8
+2025-03-01 17:01:45,924 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:01:45,936 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:01:45,937 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:01:45,938 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:01:47,948 - INFO - Controllando pagina 9/10: https://www.subito.it/annunci-italia/vendita/usato/?q=monitor+4k+oled&o=9
+2025-03-01 17:01:48,195 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:01:48,213 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:01:48,213 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:01:48,215 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:01:50,226 - INFO - Controllando pagina 10/10: https://www.subito.it/annunci-italia/vendita/usato/?q=monitor+4k+oled&o=10
+2025-03-01 17:01:50,412 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:01:50,431 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:01:50,431 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:01:50,433 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:01:50,433 - INFO - Trovati 259 prodotti totali su 10 pagine
+2025-03-01 17:01:50,433 - INFO - Filtrati a 37 prodotti unici
+2025-03-01 17:01:50,433 - INFO - Trovati 37 prodotti per 'monitor 4k oled', di cui 2 nel range di prezzo €200.0-€300.0
+2025-03-01 17:06:15,487 - INFO - Monitor dei prezzi interrotto dall'utente
+2025-03-01 17:06:46,831 - INFO - Avvio del monitor dei prezzi di Subito.it
+2025-03-01 17:06:46,831 - INFO - Controllo dei prezzi per 'microfono xlr' (min €50.0, max €200.0)...
+2025-03-01 17:06:46,831 - INFO - Controllando pagina 1/20: https://www.subito.it/annunci-italia/vendita/usato/?q=microfono+xlr
+2025-03-01 17:06:47,274 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:06:47,281 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 17:06:47,287 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 17:06:47,292 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 17:06:47,303 - INFO - Trovati 200 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 17:06:47,352 - INFO - Trovati 233 elementi unici per analisi
+2025-03-01 17:06:49,401 - INFO - Controllando pagina 2/20: https://www.subito.it/annunci-italia/vendita/usato/?q=microfono+xlr&o=2
+2025-03-01 17:06:49,921 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:06:49,928 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 17:06:49,935 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 17:06:49,939 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 17:06:49,950 - INFO - Trovati 208 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 17:06:50,003 - INFO - Trovati 235 elementi unici per analisi
+2025-03-01 17:06:52,113 - INFO - Controllando pagina 3/20: https://www.subito.it/annunci-italia/vendita/usato/?q=microfono+xlr&o=3
+2025-03-01 17:06:52,711 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:06:52,717 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 17:06:52,723 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 17:06:52,728 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 17:06:52,738 - INFO - Trovati 200 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 17:06:52,789 - INFO - Trovati 233 elementi unici per analisi
+2025-03-01 17:06:54,841 - INFO - Controllando pagina 4/20: https://www.subito.it/annunci-italia/vendita/usato/?q=microfono+xlr&o=4
+2025-03-01 17:06:55,402 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:06:55,409 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 17:06:55,416 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 17:06:55,421 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 17:06:55,431 - INFO - Trovati 202 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 17:06:55,477 - INFO - Trovati 234 elementi unici per analisi
+2025-03-01 17:06:57,522 - INFO - Controllando pagina 5/20: https://www.subito.it/annunci-italia/vendita/usato/?q=microfono+xlr&o=5
+2025-03-01 17:06:58,030 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:06:58,037 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 17:06:58,043 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 17:06:58,047 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 17:06:58,057 - INFO - Trovati 200 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 17:06:58,120 - INFO - Trovati 233 elementi unici per analisi
+2025-03-01 17:07:00,167 - INFO - Controllando pagina 6/20: https://www.subito.it/annunci-italia/vendita/usato/?q=microfono+xlr&o=6
+2025-03-01 17:07:00,575 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:07:00,580 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 17:07:00,586 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 17:07:00,590 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 17:07:00,599 - INFO - Trovati 204 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 17:07:00,645 - INFO - Trovati 237 elementi unici per analisi
+2025-03-01 17:07:02,793 - INFO - Controllando pagina 7/20: https://www.subito.it/annunci-italia/vendita/usato/?q=microfono+xlr&o=7
+2025-03-01 17:07:03,310 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:07:03,317 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 17:07:03,323 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 17:07:03,327 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 17:07:03,337 - INFO - Trovati 204 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 17:07:03,382 - INFO - Trovati 236 elementi unici per analisi
+2025-03-01 17:07:05,428 - INFO - Controllando pagina 8/20: https://www.subito.it/annunci-italia/vendita/usato/?q=microfono+xlr&o=8
+2025-03-01 17:07:06,222 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:07:06,229 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 17:07:06,235 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 17:07:06,239 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 17:07:06,249 - INFO - Trovati 201 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 17:07:06,296 - INFO - Trovati 234 elementi unici per analisi
+2025-03-01 17:07:08,344 - INFO - Controllando pagina 9/20: https://www.subito.it/annunci-italia/vendita/usato/?q=microfono+xlr&o=9
+2025-03-01 17:07:08,661 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:07:08,667 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 17:07:08,673 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 17:07:08,678 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 17:07:08,688 - INFO - Trovati 201 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 17:07:08,734 - INFO - Trovati 230 elementi unici per analisi
+2025-03-01 17:07:10,779 - INFO - Controllando pagina 10/20: https://www.subito.it/annunci-italia/vendita/usato/?q=microfono+xlr&o=10
+2025-03-01 17:07:11,391 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:07:11,398 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 17:07:11,404 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 17:07:11,409 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 17:07:11,419 - INFO - Trovati 200 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 17:07:11,465 - INFO - Trovati 233 elementi unici per analisi
+2025-03-01 17:07:13,556 - INFO - Controllando pagina 11/20: https://www.subito.it/annunci-italia/vendita/usato/?q=microfono+xlr&o=11
+2025-03-01 17:07:13,876 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:07:13,882 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 17:07:13,888 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 17:07:13,893 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 17:07:13,903 - INFO - Trovati 203 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 17:07:13,949 - INFO - Trovati 236 elementi unici per analisi
+2025-03-01 17:07:15,992 - INFO - Controllando pagina 12/20: https://www.subito.it/annunci-italia/vendita/usato/?q=microfono+xlr&o=12
+2025-03-01 17:07:16,516 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:07:16,522 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 17:07:16,527 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 17:07:16,531 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 17:07:16,540 - INFO - Trovati 199 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 17:07:16,589 - INFO - Trovati 232 elementi unici per analisi
+2025-03-01 17:07:18,638 - INFO - Controllando pagina 13/20: https://www.subito.it/annunci-italia/vendita/usato/?q=microfono+xlr&o=13
+2025-03-01 17:07:19,648 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:07:19,655 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 17:07:19,660 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 17:07:19,665 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 17:07:19,675 - INFO - Trovati 202 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 17:07:19,720 - INFO - Trovati 235 elementi unici per analisi
+2025-03-01 17:07:21,764 - INFO - Controllando pagina 14/20: https://www.subito.it/annunci-italia/vendita/usato/?q=microfono+xlr&o=14
+2025-03-01 17:07:22,154 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:07:22,159 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 17:07:22,164 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 17:07:22,169 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 17:07:22,179 - INFO - Trovati 202 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 17:07:22,226 - INFO - Trovati 235 elementi unici per analisi
+2025-03-01 17:07:24,271 - INFO - Controllando pagina 15/20: https://www.subito.it/annunci-italia/vendita/usato/?q=microfono+xlr&o=15
+2025-03-01 17:07:24,855 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:07:24,862 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 17:07:24,868 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 17:07:24,872 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 17:07:24,882 - INFO - Trovati 209 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 17:07:24,928 - INFO - Trovati 241 elementi unici per analisi
+2025-03-01 17:07:26,970 - INFO - Controllando pagina 16/20: https://www.subito.it/annunci-italia/vendita/usato/?q=microfono+xlr&o=16
+2025-03-01 17:07:27,428 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:07:27,434 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 17:07:27,441 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 17:07:27,445 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 17:07:27,455 - INFO - Trovati 205 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 17:07:27,501 - INFO - Trovati 236 elementi unici per analisi
+2025-03-01 17:07:29,545 - INFO - Controllando pagina 17/20: https://www.subito.it/annunci-italia/vendita/usato/?q=microfono+xlr&o=17
+2025-03-01 17:07:29,941 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:07:29,947 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 17:07:29,953 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 17:07:29,957 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 17:07:29,967 - INFO - Trovati 203 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 17:07:30,014 - INFO - Trovati 236 elementi unici per analisi
+2025-03-01 17:07:32,062 - INFO - Controllando pagina 18/20: https://www.subito.it/annunci-italia/vendita/usato/?q=microfono+xlr&o=18
+2025-03-01 17:07:32,722 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:07:32,728 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 17:07:32,734 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 17:07:32,739 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 17:07:32,749 - INFO - Trovati 201 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 17:07:32,795 - INFO - Trovati 234 elementi unici per analisi
+2025-03-01 17:07:34,883 - INFO - Controllando pagina 19/20: https://www.subito.it/annunci-italia/vendita/usato/?q=microfono+xlr&o=19
+2025-03-01 17:07:35,307 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:07:35,314 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 17:07:35,320 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 17:07:35,325 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 17:07:35,335 - INFO - Trovati 200 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 17:07:35,381 - INFO - Trovati 233 elementi unici per analisi
+2025-03-01 17:07:37,424 - INFO - Controllando pagina 20/20: https://www.subito.it/annunci-italia/vendita/usato/?q=microfono+xlr&o=20
+2025-03-01 17:07:37,807 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:07:37,813 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 17:07:37,819 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 17:07:37,824 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 17:07:37,834 - INFO - Trovati 203 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 17:07:37,880 - INFO - Trovati 236 elementi unici per analisi
+2025-03-01 17:07:37,917 - INFO - Trovati 1748 prodotti totali su 20 pagine
+2025-03-01 17:07:37,918 - INFO - Filtrati a 250 prodotti unici
+2025-03-01 17:07:37,918 - INFO - Trovati 250 prodotti per 'microfono xlr', di cui 50 nel range di prezzo €50.0-€200.0
+2025-03-01 17:07:37,919 - INFO - Pianificato controllo ogni 30 minuti per 'microfono xlr'
+2025-03-01 17:21:50,531 - INFO - Monitor dei prezzi interrotto dall'utente
+2025-03-01 17:22:27,708 - INFO - Avvio del monitor dei prezzi di Subito.it
+2025-03-01 17:22:27,708 - INFO - Controllo dei prezzi per 'Shure SM7B ' (min €120.0, max €300.0)...
+2025-03-01 17:22:27,708 - INFO - Controllando pagina 1/20: https://www.subito.it/annunci-italia/vendita/usato/?q=Shure+SM7B+
+2025-03-01 17:22:28,335 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:22:28,343 - INFO - Trovati 30 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 17:22:28,353 - INFO - Trovati 30 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 17:22:28,357 - INFO - Trovati 30 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 17:22:28,367 - INFO - Trovati 189 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 17:22:28,408 - INFO - Trovati 218 elementi unici per analisi
+2025-03-01 17:22:30,453 - INFO - Controllando pagina 2/20: https://www.subito.it/annunci-italia/vendita/usato/?q=Shure+SM7B+&o=2
+2025-03-01 17:22:31,063 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:22:31,069 - INFO - Trovati 20 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 17:22:31,074 - INFO - Trovati 20 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 17:22:31,079 - INFO - Trovati 20 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 17:22:31,088 - INFO - Trovati 127 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 17:22:31,121 - INFO - Trovati 146 elementi unici per analisi
+2025-03-01 17:22:33,276 - INFO - Controllando pagina 3/20: https://www.subito.it/annunci-italia/vendita/usato/?q=Shure+SM7B+&o=3
+2025-03-01 17:22:33,715 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:22:33,734 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:22:33,734 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:22:33,737 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:22:35,742 - INFO - Controllando pagina 4/20: https://www.subito.it/annunci-italia/vendita/usato/?q=Shure+SM7B+&o=4
+2025-03-01 17:22:36,408 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:22:36,427 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:22:36,427 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:22:36,429 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:22:38,435 - INFO - Controllando pagina 5/20: https://www.subito.it/annunci-italia/vendita/usato/?q=Shure+SM7B+&o=5
+2025-03-01 17:22:39,212 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:22:39,232 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:22:39,232 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:22:39,234 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:22:41,239 - INFO - Controllando pagina 6/20: https://www.subito.it/annunci-italia/vendita/usato/?q=Shure+SM7B+&o=6
+2025-03-01 17:22:41,656 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:22:41,670 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:22:41,670 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:22:41,671 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:22:43,676 - INFO - Controllando pagina 7/20: https://www.subito.it/annunci-italia/vendita/usato/?q=Shure+SM7B+&o=7
+2025-03-01 17:22:44,691 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:22:44,710 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:22:44,710 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:22:44,712 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:22:46,713 - INFO - Controllando pagina 8/20: https://www.subito.it/annunci-italia/vendita/usato/?q=Shure+SM7B+&o=8
+2025-03-01 17:22:47,097 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:22:47,117 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:22:47,117 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:22:47,120 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:22:49,125 - INFO - Controllando pagina 9/20: https://www.subito.it/annunci-italia/vendita/usato/?q=Shure+SM7B+&o=9
+2025-03-01 17:22:49,740 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:22:49,761 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:22:49,761 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:22:49,763 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:22:51,776 - INFO - Controllando pagina 10/20: https://www.subito.it/annunci-italia/vendita/usato/?q=Shure+SM7B+&o=10
+2025-03-01 17:22:52,340 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:22:52,357 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:22:52,357 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:22:52,359 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:22:54,365 - INFO - Controllando pagina 11/20: https://www.subito.it/annunci-italia/vendita/usato/?q=Shure+SM7B+&o=11
+2025-03-01 17:22:55,168 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:22:55,187 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:22:55,187 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:22:55,189 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:22:57,194 - INFO - Controllando pagina 12/20: https://www.subito.it/annunci-italia/vendita/usato/?q=Shure+SM7B+&o=12
+2025-03-01 17:22:57,672 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:22:57,693 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:22:57,693 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:22:57,695 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:22:59,700 - INFO - Controllando pagina 13/20: https://www.subito.it/annunci-italia/vendita/usato/?q=Shure+SM7B+&o=13
+2025-03-01 17:23:00,570 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:23:00,590 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:23:00,590 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:23:00,592 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:23:02,597 - INFO - Controllando pagina 14/20: https://www.subito.it/annunci-italia/vendita/usato/?q=Shure+SM7B+&o=14
+2025-03-01 17:23:02,882 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:23:02,902 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:23:02,902 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:23:02,904 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:23:04,909 - INFO - Controllando pagina 15/20: https://www.subito.it/annunci-italia/vendita/usato/?q=Shure+SM7B+&o=15
+2025-03-01 17:23:05,674 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:23:05,694 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:23:05,694 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:23:05,696 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:23:07,701 - INFO - Controllando pagina 16/20: https://www.subito.it/annunci-italia/vendita/usato/?q=Shure+SM7B+&o=16
+2025-03-01 17:23:07,999 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:23:08,019 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:23:08,019 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:23:08,022 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:23:10,027 - INFO - Controllando pagina 17/20: https://www.subito.it/annunci-italia/vendita/usato/?q=Shure+SM7B+&o=17
+2025-03-01 17:23:10,513 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:23:10,534 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:23:10,534 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:23:10,536 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:23:12,541 - INFO - Controllando pagina 18/20: https://www.subito.it/annunci-italia/vendita/usato/?q=Shure+SM7B+&o=18
+2025-03-01 17:23:13,273 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:23:13,297 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:23:13,297 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:23:13,299 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:23:15,304 - INFO - Controllando pagina 19/20: https://www.subito.it/annunci-italia/vendita/usato/?q=Shure+SM7B+&o=19
+2025-03-01 17:23:15,915 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:23:15,935 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:23:15,935 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:23:15,937 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:23:17,943 - INFO - Controllando pagina 20/20: https://www.subito.it/annunci-italia/vendita/usato/?q=Shure+SM7B+&o=20
+2025-03-01 17:23:18,356 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:23:18,376 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:23:18,376 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:23:18,378 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:23:18,378 - INFO - Trovati 203 prodotti totali su 20 pagine
+2025-03-01 17:23:18,378 - INFO - Filtrati a 29 prodotti unici
+2025-03-01 17:23:18,378 - INFO - Trovati 29 prodotti per 'Shure SM7B ', di cui 11 nel range di prezzo €120.0-€300.0
+2025-03-01 17:23:18,378 - INFO - Pianificato controllo ogni 30 minuti per 'Shure SM7B '
+2025-03-01 17:26:43,529 - INFO - Monitor dei prezzi interrotto dall'utente
+2025-03-01 17:27:31,266 - INFO - Avvio del monitor dei prezzi di Subito.it
+2025-03-01 17:27:31,266 - INFO - Controllo dei prezzi per 'Focusrite Scarlett Solo (terza generazione)' (min €10.0, max €70.0)...
+2025-03-01 17:27:31,266 - INFO - Controllando pagina 1/10: https://www.subito.it/annunci-italia/vendita/usato/?q=Focusrite+Scarlett+Solo+%28terza+generazione%29
+2025-03-01 17:27:31,644 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:27:31,649 - INFO - Trovati 18 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 17:27:31,655 - INFO - Trovati 18 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 17:27:31,659 - INFO - Trovati 18 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 17:27:31,666 - INFO - Trovati 117 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 17:27:31,693 - INFO - Trovati 133 elementi unici per analisi
+2025-03-01 17:27:33,724 - INFO - Controllando pagina 2/10: https://www.subito.it/annunci-italia/vendita/usato/?q=Focusrite+Scarlett+Solo+%28terza+generazione%29&o=2
+2025-03-01 17:27:34,120 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:27:34,139 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:27:34,139 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:27:34,142 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:27:36,150 - INFO - Controllando pagina 3/10: https://www.subito.it/annunci-italia/vendita/usato/?q=Focusrite+Scarlett+Solo+%28terza+generazione%29&o=3
+2025-03-01 17:27:36,772 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:27:36,791 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:27:36,791 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:27:36,793 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:27:38,799 - INFO - Controllando pagina 4/10: https://www.subito.it/annunci-italia/vendita/usato/?q=Focusrite+Scarlett+Solo+%28terza+generazione%29&o=4
+2025-03-01 17:27:39,170 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:27:39,185 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:27:39,185 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:27:39,187 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:27:41,192 - INFO - Controllando pagina 5/10: https://www.subito.it/annunci-italia/vendita/usato/?q=Focusrite+Scarlett+Solo+%28terza+generazione%29&o=5
+2025-03-01 17:27:41,756 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:27:41,776 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:27:41,776 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:27:41,778 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:27:43,783 - INFO - Controllando pagina 6/10: https://www.subito.it/annunci-italia/vendita/usato/?q=Focusrite+Scarlett+Solo+%28terza+generazione%29&o=6
+2025-03-01 17:27:44,172 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:27:44,187 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:27:44,187 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:27:44,189 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:27:46,194 - INFO - Controllando pagina 7/10: https://www.subito.it/annunci-italia/vendita/usato/?q=Focusrite+Scarlett+Solo+%28terza+generazione%29&o=7
+2025-03-01 17:27:46,742 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:27:46,761 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:27:46,761 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:27:46,763 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:27:48,769 - INFO - Controllando pagina 8/10: https://www.subito.it/annunci-italia/vendita/usato/?q=Focusrite+Scarlett+Solo+%28terza+generazione%29&o=8
+2025-03-01 17:27:49,577 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:27:49,597 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:27:49,597 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:27:49,599 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:27:51,604 - INFO - Controllando pagina 9/10: https://www.subito.it/annunci-italia/vendita/usato/?q=Focusrite+Scarlett+Solo+%28terza+generazione%29&o=9
+2025-03-01 17:27:52,094 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:27:52,114 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:27:52,114 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:27:52,116 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:27:54,122 - INFO - Controllando pagina 10/10: https://www.subito.it/annunci-italia/vendita/usato/?q=Focusrite+Scarlett+Solo+%28terza+generazione%29&o=10
+2025-03-01 17:27:54,699 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:27:54,712 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:27:54,712 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:27:54,714 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:27:54,714 - INFO - Trovati 49 prodotti totali su 10 pagine
+2025-03-01 17:27:54,714 - INFO - Filtrati a 7 prodotti unici
+2025-03-01 17:27:54,714 - INFO - Trovati 7 prodotti per 'Focusrite Scarlett Solo (terza generazione)', di cui 1 nel range di prezzo €10.0-€70.0
+2025-03-01 17:27:54,714 - INFO - Pianificato controllo ogni 30 minuti per 'Focusrite Scarlett Solo (terza generazione)'
+2025-03-01 17:28:27,103 - INFO - Monitor dei prezzi interrotto dall'utente
+2025-03-01 17:28:41,524 - INFO - Avvio del monitor dei prezzi di Subito.it
+2025-03-01 17:28:41,524 - INFO - Controllo dei prezzi per 'Focusrite Scarlett Solo' (min €10.0, max €70.0)...
+2025-03-01 17:28:41,524 - INFO - Controllando pagina 1/10: https://www.subito.it/annunci-italia/vendita/usato/?q=Focusrite+Scarlett+Solo
+2025-03-01 17:28:41,995 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:28:42,001 - INFO - Trovati 30 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 17:28:42,006 - INFO - Trovati 30 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 17:28:42,011 - INFO - Trovati 30 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 17:28:42,021 - INFO - Trovati 189 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 17:28:42,061 - INFO - Trovati 215 elementi unici per analisi
+2025-03-01 17:28:44,104 - INFO - Controllando pagina 2/10: https://www.subito.it/annunci-italia/vendita/usato/?q=Focusrite+Scarlett+Solo&o=2
+2025-03-01 17:28:44,504 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:28:44,510 - INFO - Trovati 30 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 17:28:44,516 - INFO - Trovati 30 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 17:28:44,520 - INFO - Trovati 30 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 17:28:44,530 - INFO - Trovati 195 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 17:28:44,569 - INFO - Trovati 221 elementi unici per analisi
+2025-03-01 17:28:46,601 - INFO - Controllando pagina 3/10: https://www.subito.it/annunci-italia/vendita/usato/?q=Focusrite+Scarlett+Solo&o=3
+2025-03-01 17:28:47,073 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:28:47,080 - INFO - Trovati 30 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 17:28:47,086 - INFO - Trovati 30 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 17:28:47,091 - INFO - Trovati 30 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 17:28:47,101 - INFO - Trovati 198 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 17:28:47,138 - INFO - Trovati 224 elementi unici per analisi
+2025-03-01 17:28:49,220 - INFO - Controllando pagina 4/10: https://www.subito.it/annunci-italia/vendita/usato/?q=Focusrite+Scarlett+Solo&o=4
+2025-03-01 17:28:49,683 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:28:49,689 - INFO - Trovati 25 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 17:28:49,694 - INFO - Trovati 25 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 17:28:49,698 - INFO - Trovati 25 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 17:28:49,707 - INFO - Trovati 159 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 17:28:49,741 - INFO - Trovati 181 elementi unici per analisi
+2025-03-01 17:28:51,769 - INFO - Controllando pagina 5/10: https://www.subito.it/annunci-italia/vendita/usato/?q=Focusrite+Scarlett+Solo&o=5
+2025-03-01 17:28:52,074 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:28:52,092 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:28:52,093 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:28:52,095 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:28:54,100 - INFO - Controllando pagina 6/10: https://www.subito.it/annunci-italia/vendita/usato/?q=Focusrite+Scarlett+Solo&o=6
+2025-03-01 17:28:54,672 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:28:54,691 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:28:54,691 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:28:54,693 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:28:56,698 - INFO - Controllando pagina 7/10: https://www.subito.it/annunci-italia/vendita/usato/?q=Focusrite+Scarlett+Solo&o=7
+2025-03-01 17:28:57,029 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:28:57,044 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:28:57,044 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:28:57,047 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:28:59,052 - INFO - Controllando pagina 8/10: https://www.subito.it/annunci-italia/vendita/usato/?q=Focusrite+Scarlett+Solo&o=8
+2025-03-01 17:28:59,827 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:28:59,846 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:28:59,846 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:28:59,849 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:29:01,854 - INFO - Controllando pagina 9/10: https://www.subito.it/annunci-italia/vendita/usato/?q=Focusrite+Scarlett+Solo&o=9
+2025-03-01 17:29:02,454 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:29:02,476 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:29:02,476 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:29:02,478 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:29:04,483 - INFO - Controllando pagina 10/10: https://www.subito.it/annunci-italia/vendita/usato/?q=Focusrite+Scarlett+Solo&o=10
+2025-03-01 17:29:04,983 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:29:05,003 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:29:05,003 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:29:05,005 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:29:05,005 - INFO - Trovati 329 prodotti totali su 10 pagine
+2025-03-01 17:29:05,005 - INFO - Filtrati a 47 prodotti unici
+2025-03-01 17:29:05,006 - INFO - Trovati 47 prodotti per 'Focusrite Scarlett Solo', di cui 5 nel range di prezzo €10.0-€70.0
+2025-03-01 17:29:05,006 - INFO - Pianificato controllo ogni 30 minuti per 'Focusrite Scarlett Solo'
+2025-03-01 17:30:28,096 - INFO - Monitor dei prezzi interrotto dall'utente
+2025-03-01 17:31:04,097 - INFO - Avvio del monitor dei prezzi di Subito.it
+2025-03-01 17:31:04,098 - INFO - Controllo dei prezzi per 'processore scheda madre ram' (min €200.0, max €400.0)...
+2025-03-01 17:31:04,098 - INFO - Controllando pagina 1/10: https://www.subito.it/annunci-italia/vendita/usato/?q=processore+scheda+madre+ram
+2025-03-01 17:31:04,465 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:31:04,472 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 17:31:04,479 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 17:31:04,483 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 17:31:04,494 - INFO - Trovati 198 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 17:31:04,543 - INFO - Trovati 231 elementi unici per analisi
+2025-03-01 17:31:06,589 - INFO - Controllando pagina 2/10: https://www.subito.it/annunci-italia/vendita/usato/?q=processore+scheda+madre+ram&o=2
+2025-03-01 17:31:07,178 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:31:07,185 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 17:31:07,191 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 17:31:07,196 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 17:31:07,207 - INFO - Trovati 199 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 17:31:07,257 - INFO - Trovati 232 elementi unici per analisi
+2025-03-01 17:31:09,346 - INFO - Controllando pagina 3/10: https://www.subito.it/annunci-italia/vendita/usato/?q=processore+scheda+madre+ram&o=3
+2025-03-01 17:31:09,693 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:31:09,699 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 17:31:09,705 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 17:31:09,710 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 17:31:09,720 - INFO - Trovati 199 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 17:31:09,770 - INFO - Trovati 232 elementi unici per analisi
+2025-03-01 17:31:11,812 - INFO - Controllando pagina 4/10: https://www.subito.it/annunci-italia/vendita/usato/?q=processore+scheda+madre+ram&o=4
+2025-03-01 17:31:12,191 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:31:12,197 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 17:31:12,204 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 17:31:12,209 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 17:31:12,219 - INFO - Trovati 198 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 17:31:12,268 - INFO - Trovati 231 elementi unici per analisi
+2025-03-01 17:31:14,312 - INFO - Controllando pagina 5/10: https://www.subito.it/annunci-italia/vendita/usato/?q=processore+scheda+madre+ram&o=5
+2025-03-01 17:31:14,674 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:31:14,680 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 17:31:14,687 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 17:31:14,692 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 17:31:14,702 - INFO - Trovati 199 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 17:31:14,751 - INFO - Trovati 232 elementi unici per analisi
+2025-03-01 17:31:16,800 - INFO - Controllando pagina 6/10: https://www.subito.it/annunci-italia/vendita/usato/?q=processore+scheda+madre+ram&o=6
+2025-03-01 17:31:17,112 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:31:17,120 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 17:31:17,126 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 17:31:17,131 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 17:31:17,140 - INFO - Trovati 199 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 17:31:17,188 - INFO - Trovati 232 elementi unici per analisi
+2025-03-01 17:31:19,253 - INFO - Controllando pagina 7/10: https://www.subito.it/annunci-italia/vendita/usato/?q=processore+scheda+madre+ram&o=7
+2025-03-01 17:31:20,662 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:31:20,667 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 17:31:20,676 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 17:31:20,683 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 17:31:20,694 - INFO - Trovati 199 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 17:31:20,758 - INFO - Trovati 232 elementi unici per analisi
+2025-03-01 17:31:22,802 - INFO - Controllando pagina 8/10: https://www.subito.it/annunci-italia/vendita/usato/?q=processore+scheda+madre+ram&o=8
+2025-03-01 17:31:23,440 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:31:23,447 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 17:31:23,454 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 17:31:23,458 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 17:31:23,469 - INFO - Trovati 200 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 17:31:23,515 - INFO - Trovati 233 elementi unici per analisi
+2025-03-01 17:31:25,560 - INFO - Controllando pagina 9/10: https://www.subito.it/annunci-italia/vendita/usato/?q=processore+scheda+madre+ram&o=9
+2025-03-01 17:31:25,940 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:31:25,947 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 17:31:25,953 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 17:31:25,958 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 17:31:25,968 - INFO - Trovati 201 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 17:31:26,015 - INFO - Trovati 233 elementi unici per analisi
+2025-03-01 17:31:28,060 - INFO - Controllando pagina 10/10: https://www.subito.it/annunci-italia/vendita/usato/?q=processore+scheda+madre+ram&o=10
+2025-03-01 17:31:28,598 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:31:28,605 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 17:31:28,612 - INFO - Trovati 33 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 17:31:28,616 - INFO - Trovati 33 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 17:31:28,627 - INFO - Trovati 200 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 17:31:28,675 - INFO - Trovati 232 elementi unici per analisi
+2025-03-01 17:31:28,717 - INFO - Trovati 609 prodotti totali su 10 pagine
+2025-03-01 17:31:28,717 - INFO - Filtrati a 82 prodotti unici
+2025-03-01 17:31:28,717 - INFO - Trovati 82 prodotti per 'processore scheda madre ram', di cui 26 nel range di prezzo €200.0-€400.0
+2025-03-01 17:31:28,718 - INFO - Pianificato controllo ogni 30 minuti per 'processore scheda madre ram'
+2025-03-01 17:56:12,149 - INFO - Monitor dei prezzi interrotto dall'utente
+2025-03-01 17:56:54,396 - INFO - Avvio del monitor dei prezzi di Subito.it
+2025-03-01 17:56:54,396 - INFO - Controllo dei prezzi per 'alimentatore pc 1000watt' (min €20.0, max €120.0)...
+2025-03-01 17:56:54,396 - INFO - Controllando pagina 1/10: https://www.subito.it/annunci-italia/vendita/usato/?q=alimentatore+pc+1000watt
+2025-03-01 17:56:54,668 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:56:54,673 - INFO - Trovati 9 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 17:56:54,678 - INFO - Trovati 9 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 17:56:54,682 - INFO - Trovati 9 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 17:56:54,689 - INFO - Trovati 55 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 17:56:54,707 - INFO - Trovati 64 elementi unici per analisi
+2025-03-01 17:56:56,730 - INFO - Controllando pagina 2/10: https://www.subito.it/annunci-italia/vendita/usato/?q=alimentatore+pc+1000watt&o=2
+2025-03-01 17:56:57,114 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:56:57,126 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:56:57,126 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:56:57,129 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:56:59,134 - INFO - Controllando pagina 3/10: https://www.subito.it/annunci-italia/vendita/usato/?q=alimentatore+pc+1000watt&o=3
+2025-03-01 17:56:59,721 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:56:59,741 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:56:59,741 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:56:59,744 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:57:01,749 - INFO - Controllando pagina 4/10: https://www.subito.it/annunci-italia/vendita/usato/?q=alimentatore+pc+1000watt&o=4
+2025-03-01 17:57:02,659 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:57:02,672 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:57:02,672 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:57:02,674 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:57:04,679 - INFO - Controllando pagina 5/10: https://www.subito.it/annunci-italia/vendita/usato/?q=alimentatore+pc+1000watt&o=5
+2025-03-01 17:57:05,078 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:57:05,096 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:57:05,096 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:57:05,098 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:57:07,104 - INFO - Controllando pagina 6/10: https://www.subito.it/annunci-italia/vendita/usato/?q=alimentatore+pc+1000watt&o=6
+2025-03-01 17:57:07,503 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:57:07,523 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:57:07,523 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:57:07,525 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:57:09,531 - INFO - Controllando pagina 7/10: https://www.subito.it/annunci-italia/vendita/usato/?q=alimentatore+pc+1000watt&o=7
+2025-03-01 17:57:10,301 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:57:10,318 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:57:10,318 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:57:10,320 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:57:12,325 - INFO - Controllando pagina 8/10: https://www.subito.it/annunci-italia/vendita/usato/?q=alimentatore+pc+1000watt&o=8
+2025-03-01 17:57:12,591 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:57:12,611 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:57:12,611 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:57:12,613 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:57:14,619 - INFO - Controllando pagina 9/10: https://www.subito.it/annunci-italia/vendita/usato/?q=alimentatore+pc+1000watt&o=9
+2025-03-01 17:57:15,311 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:57:15,330 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:57:15,331 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:57:15,333 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:57:17,338 - INFO - Controllando pagina 10/10: https://www.subito.it/annunci-italia/vendita/usato/?q=alimentatore+pc+1000watt&o=10
+2025-03-01 17:57:17,886 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 17:57:17,906 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 17:57:17,907 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 17:57:17,909 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 17:57:17,909 - INFO - Trovati 56 prodotti totali su 10 pagine
+2025-03-01 17:57:17,909 - INFO - Filtrati a 7 prodotti unici
+2025-03-01 17:57:17,909 - INFO - Trovati 7 prodotti per 'alimentatore pc 1000watt', di cui 2 nel range di prezzo €20.0-€120.0
+2025-03-01 17:57:17,909 - INFO - Pianificato controllo ogni 30 minuti per 'alimentatore pc 1000watt'
+2025-03-01 18:01:17,390 - INFO - Monitor dei prezzi interrotto dall'utente

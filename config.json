@@ -1,0 +1,40 @@
+{
+    "searches": [
+        {
+            "product_name": "alimentatore pc 1000watt",
+            "search_url": "https://www.subito.it/annunci-italia/vendita/usato/?q=alimentatore+pc+1000watt",
+            "min_price": 20.0,
+            "max_price": 120.0,
+            "check_interval_minutes": 30,
+            "results_limit": 50,
+            "pages_to_check": 10
+        }
+    ],
+    "notification": {
+        "method": "telegram",
+        "telegram": {
+            "bot_token": "YOUR_TELEGRAM_BOT_TOKEN",
+            "chat_id": "YOUR_CHAT_ID"
+        },
+        "email": {
+            "smtp_server": "smtp.gmail.com",
+            "smtp_port": 587,
+            "sender_email": "your_email@gmail.com",
+            "sender_password": "your_app_password",
+            "recipient_email": "recipient@example.com"
+        },
+        "discord": {
+            "webhook_url": "YOUR_DISCORD_WEBHOOK_URL"
+        },
+        "sms": {
+            "twilio_account_sid": "YOUR_TWILIO_ACCOUNT_SID",
+            "twilio_auth_token": "YOUR_TWILIO_AUTH_TOKEN",
+            "twilio_phone_number": "YOUR_TWILIO_PHONE_NUMBER",
+            "recipient_phone_number": "RECIPIENT_PHONE_NUMBER"
+        }
+    },
+    "database": {
+        "file": "price_history.db"
+    },
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+}
