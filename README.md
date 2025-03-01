@@ -1,8 +1,10 @@
 # Subito.it Price Monitor
 
+![Descrizione immagine](img.png)
+
 A Python tool to monitor product prices on Subito.it and get notified when items matching your criteria are listed.
 
-![Subito.it Logo](https://assets.subito.it/static/images/logo.png)
+![Subito.it Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTw-OwPfhsvtbnnSB5KaoHBP0Xczbu_51LtQ&s)
 
 ## 📖 Overview
 

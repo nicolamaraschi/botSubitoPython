@@ -1870,3 +1870,66 @@
 2025-03-01 17:57:17,909 - INFO - Trovati 7 prodotti per 'alimentatore pc 1000watt', di cui 2 nel range di prezzo €20.0-€120.0
 2025-03-01 17:57:17,909 - INFO - Pianificato controllo ogni 30 minuti per 'alimentatore pc 1000watt'
 2025-03-01 18:01:17,390 - INFO - Monitor dei prezzi interrotto dall'utente
+2025-03-01 19:05:01,488 - INFO - Avvio del monitor dei prezzi di Subito.it
+2025-03-01 19:05:01,489 - INFO - Controllo dei prezzi per 'monitor 4k oled' (min €200.0, max €300.0)...
+2025-03-01 19:05:01,489 - INFO - Controllando pagina 1/10: https://www.subito.it/annunci-italia/vendita/usato/?q=monitor+4k+oled
+2025-03-01 19:05:02,319 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 19:05:02,325 - INFO - Trovati 30 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 19:05:02,330 - INFO - Trovati 30 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 19:05:02,334 - INFO - Trovati 30 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 19:05:02,343 - INFO - Trovati 186 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 19:05:02,384 - INFO - Trovati 215 elementi unici per analisi
+2025-03-01 19:05:04,431 - INFO - Controllando pagina 2/10: https://www.subito.it/annunci-italia/vendita/usato/?q=monitor+4k+oled&o=2
+2025-03-01 19:05:04,793 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 19:05:04,801 - INFO - Trovati 30 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 19:05:04,808 - INFO - Trovati 30 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 19:05:04,813 - INFO - Trovati 30 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 19:05:04,824 - INFO - Trovati 186 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 19:05:04,866 - INFO - Trovati 216 elementi unici per analisi
+2025-03-01 19:05:06,910 - INFO - Controllando pagina 3/10: https://www.subito.it/annunci-italia/vendita/usato/?q=monitor+4k+oled&o=3
+2025-03-01 19:05:07,299 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 19:05:07,302 - INFO - Trovati 1 elementi con selettore: div.SmallCard-module_picture-group__asLo2
+2025-03-01 19:05:07,305 - INFO - Trovati 1 elementi con selettore: div.SmallCard-module_item-key-data__fcbjY
+2025-03-01 19:05:07,308 - INFO - Trovati 1 elementi con selettore: a.SmallCard-module_link__hOkzY
+2025-03-01 19:05:07,313 - INFO - Trovati 6 elementi con selettore: div[class*="SmallCard-module"]
+2025-03-01 19:05:07,318 - INFO - Trovati 7 elementi unici per analisi
+2025-03-01 19:05:09,323 - INFO - Controllando pagina 4/10: https://www.subito.it/annunci-italia/vendita/usato/?q=monitor+4k+oled&o=4
+2025-03-01 19:05:09,957 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 19:05:09,978 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 19:05:09,978 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 19:05:09,980 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 19:05:11,984 - INFO - Controllando pagina 5/10: https://www.subito.it/annunci-italia/vendita/usato/?q=monitor+4k+oled&o=5
+2025-03-01 19:05:12,202 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 19:05:12,219 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 19:05:12,219 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 19:05:12,221 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 19:05:14,221 - INFO - Controllando pagina 6/10: https://www.subito.it/annunci-italia/vendita/usato/?q=monitor+4k+oled&o=6
+2025-03-01 19:05:14,627 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 19:05:14,638 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 19:05:14,638 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 19:05:14,641 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 19:05:16,646 - INFO - Controllando pagina 7/10: https://www.subito.it/annunci-italia/vendita/usato/?q=monitor+4k+oled&o=7
+2025-03-01 19:05:17,092 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 19:05:17,112 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 19:05:17,112 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 19:05:17,114 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 19:05:19,119 - INFO - Controllando pagina 8/10: https://www.subito.it/annunci-italia/vendita/usato/?q=monitor+4k+oled&o=8
+2025-03-01 19:05:19,668 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 19:05:19,687 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 19:05:19,687 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 19:05:19,689 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 19:05:21,695 - INFO - Controllando pagina 9/10: https://www.subito.it/annunci-italia/vendita/usato/?q=monitor+4k+oled&o=9
+2025-03-01 19:05:22,081 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 19:05:22,100 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 19:05:22,101 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 19:05:22,103 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 19:05:24,108 - INFO - Controllando pagina 10/10: https://www.subito.it/annunci-italia/vendita/usato/?q=monitor+4k+oled&o=10
+2025-03-01 19:05:24,473 - INFO - HTML salvato in 'subito_debug.html' per ispezione
+2025-03-01 19:05:24,492 - INFO - Trovati 0 elementi unici per analisi
+2025-03-01 19:05:24,492 - WARNING - Nessun elemento trovato con i selettori noti. Tentativo con metodo alternativo...
+2025-03-01 19:05:24,494 - INFO - Trovati 0 elementi con metodo alternativo
+2025-03-01 19:05:24,494 - INFO - Trovati 259 prodotti totali su 10 pagine
+2025-03-01 19:05:24,495 - INFO - Filtrati a 37 prodotti unici
+2025-03-01 19:05:24,495 - INFO - Trovati 37 prodotti per 'monitor 4k oled', di cui 2 nel range di prezzo €200.0-€300.0
+2025-03-01 19:05:24,495 - INFO - Pianificato controllo ogni 30 minuti per 'monitor 4k oled'
+2025-03-01 19:09:43,289 - INFO - Monitor dei prezzi interrotto dall'utente

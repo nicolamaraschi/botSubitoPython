@@ -1,10 +1,10 @@
 {
     "searches": [
         {
-            "product_name": "alimentatore pc 1000watt",
-            "search_url": "https://www.subito.it/annunci-italia/vendita/usato/?q=alimentatore+pc+1000watt",
-            "min_price": 20.0,
-            "max_price": 120.0,
+            "product_name": "monitor 4k oled",
+            "search_url": "https://www.subito.it/annunci-italia/vendita/usato/?q=monitor+4k+oled",
+            "min_price": 200.0,
+            "max_price": 300.0,
             "check_interval_minutes": 30,
             "results_limit": 50,
             "pages_to_check": 10
